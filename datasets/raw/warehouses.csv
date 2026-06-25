@@ -1,0 +1,51 @@
+warehouse_id,warehouse_name,city,state,capacity,utilized_capacity,manager_name
+WH001,Kolkata Distribution Center,Kolkata,West Bengal,273684,222693,Amit Gupta
+WH002,Kolkata Distribution Center,Kolkata,West Bengal,327103,258114,Karan Verma
+WH003,Hyderabad Distribution Center,Hyderabad,Telangana,366281,259490,Karan Sinha
+WH004,Kochi Distribution Center,Kochi,Kerala,173694,133050,Priya Singh
+WH005,Patna Distribution Center,Patna,Bihar,267872,191946,Karan Yadav
+WH006,Kochi Distribution Center,Kochi,Kerala,188127,143740,Sneha Yadav
+WH007,Bangalore Distribution Center,Bangalore,Karnataka,318116,136956,Rohit Agarwal
+WH008,Kochi Distribution Center,Kochi,Kerala,149560,123634,Rohit Singh
+WH009,Kolkata Distribution Center,Kolkata,West Bengal,287281,220896,Sneha Gupta
+WH010,Indore Distribution Center,Indore,Madhya Pradesh,352177,312775,Pooja Verma
+WH011,Patna Distribution Center,Patna,Bihar,211810,199800,Rahul Patel
+WH012,Ludhiana Distribution Center,Ludhiana,Punjab,316265,290325,Neha Gupta
+WH013,Hyderabad Distribution Center,Hyderabad,Telangana,92958,85877,Priya Kumar
+WH014,Coimbatore Distribution Center,Coimbatore,Tamil Nadu,454678,388001,Amit Sinha
+WH015,Patna Distribution Center,Patna,Bihar,377785,203863,Priya Mishra
+WH016,Ludhiana Distribution Center,Ludhiana,Punjab,98857,66159,Rohit Kumar
+WH017,Ludhiana Distribution Center,Ludhiana,Punjab,246956,190440,Ritika Sinha
+WH018,Ludhiana Distribution Center,Ludhiana,Punjab,320152,280562,Priya Yadav
+WH019,Hyderabad Distribution Center,Hyderabad,Telangana,340222,268752,Ritika Gupta
+WH020,Ludhiana Distribution Center,Ludhiana,Punjab,261142,197460,Rahul Mishra
+WH021,New Delhi Distribution Center,New Delhi,Delhi,74720,68973,Ankit Singh
+WH022,Gurugram Distribution Center,Gurugram,Haryana,60629,55625,Neha Sharma
+WH023,Mumbai Distribution Center,Mumbai,Maharashtra,72734,43695,Vikram Verma
+WH024,Coimbatore Distribution Center,Coimbatore,Tamil Nadu,198033,114886,Ankit Sinha
+WH025,Chennai Distribution Center,Chennai,Tamil Nadu,474551,236609,Ankit Sharma
+WH026,Ludhiana Distribution Center,Ludhiana,Punjab,246539,122466,Arjun Kumar
+WH027,Indore Distribution Center,Indore,Madhya Pradesh,293304,142986,Pooja Gupta
+WH028,Bhubaneswar Distribution Center,Bhubaneswar,Odisha,151185,122991,Manish Patel
+WH029,Surat Distribution Center,Surat,Gujarat,163026,95490,Rahul Singh
+WH030,New Delhi Distribution Center,New Delhi,Delhi,419681,355093,Arjun Verma
+WH031,Surat Distribution Center,Surat,Gujarat,389461,309388,Amit Verma
+WH032,Coimbatore Distribution Center,Coimbatore,Tamil Nadu,401096,214514,Neha Gupta
+WH033,Kolkata Distribution Center,Kolkata,West Bengal,341143,277598,Rohit Patel
+WH034,Coimbatore Distribution Center,Coimbatore,Tamil Nadu,329699,175851,Karan Gupta
+WH035,Kolkata Distribution Center,Kolkata,West Bengal,205407,163446,Deepak Gupta
+WH036,Mumbai Distribution Center,Mumbai,Maharashtra,286230,268983,Ankit Sinha
+WH037,Gurugram Distribution Center,Gurugram,Haryana,148347,66949,Pooja Gupta
+WH038,Patna Distribution Center,Patna,Bihar,378102,248557,Sanjay Yadav
+WH039,Jaipur Distribution Center,Jaipur,Rajasthan,383516,165788,Rohit Sharma
+WH040,New Delhi Distribution Center,New Delhi,Delhi,175990,145935,Amit Agarwal
+WH041,Kolkata Distribution Center,Kolkata,West Bengal,156899,144766,Rahul Singh
+WH042,Patna Distribution Center,Patna,Bihar,480238,350828,Priya Yadav
+WH043,Patna Distribution Center,Patna,Bihar,306718,281962,Neha Sinha
+WH044,Mumbai Distribution Center,Mumbai,Maharashtra,469403,289157,Rahul Gupta
+WH045,New Delhi Distribution Center,New Delhi,Delhi,169270,97651,Sanjay Patel
+WH046,Coimbatore Distribution Center,Coimbatore,Tamil Nadu,159314,101367,Neha Mishra
+WH047,New Delhi Distribution Center,New Delhi,Delhi,322689,239579,Rohit Yadav
+WH048,Indore Distribution Center,Indore,Madhya Pradesh,234486,101145,Deepak Yadav
+WH049,Surat Distribution Center,Surat,Gujarat,203685,192240,Neha Patel
+WH050,Hyderabad Distribution Center,Hyderabad,Telangana,296640,251163,Ankit Patel

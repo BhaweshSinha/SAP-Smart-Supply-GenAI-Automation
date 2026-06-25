@@ -1,0 +1,1001 @@
+supplier_id,supplier_name,supplier_category,country,city,lead_time_days,defect_rate,on_time_delivery_rate,supplier_rating,risk_score
+SUP0001,United Industries 0001,Electronics,Germany,Hamburg,25,4.76,91.66,4.6,52.4
+SUP0002,Future Exports 0002,Packaging,Malaysia,Kuala Lumpur,22,1.71,87.44,4.9,61.86
+SUP0003,Elite Wholesale 0003,Food & Grocery,Malaysia,Penang,24,3.45,87.81,4.9,79.65
+SUP0004,Prime Distributors 0004,Electronics,Mexico,Mexico City,24,0.84,93.54,3.6,74.74
+SUP0005,Future Supplies 0005,Food & Grocery,India,Pune,18,2.81,93.49,4.6,11.42
+SUP0006,Prime Corporation 0006,Textiles,Malaysia,Penang,24,4.66,95.81,3.7,34.29
+SUP0007,Modern Industries 0007,Chemicals,Malaysia,Penang,29,3.32,89.8,3.8,14.29
+SUP0008,United Industries 0008,Food & Grocery,South Korea,Seoul,3,2.05,97.19,3.3,59.64
+SUP0009,Rapid Wholesale 0009,Electronics,Germany,Hamburg,23,4.22,85.99,3.2,24.4
+SUP0010,Rapid Industries 0010,Logistics,South Korea,Seoul,12,0.91,89.99,4.7,65.45
+SUP0011,Elite Supplies 0011,Packaging,Vietnam,Da Nang,5,0.94,95.77,4.6,72.6
+SUP0012,Global Logistics 0012,Packaging,Indonesia,Surabaya,28,3.81,97.78,4.9,73.5
+SUP0013,Prime Industries 0013,Chemicals,Japan,Osaka,8,3.61,91.42,3.3,90.59
+SUP0014,Premium Partners 0014,Textiles,USA,New York,27,4.56,94.5,4.6,84.51
+SUP0015,United Exports 0015,Electronics,Germany,Hamburg,12,2.89,87.68,3.6,55.74
+SUP0016,Future Exports 0016,Raw Materials,China,Beijing,6,3.56,94.3,4.1,76.44
+SUP0017,Reliable Logistics 0017,Logistics,Mexico,Mexico City,10,2.94,91.55,4.5,68.18
+SUP0018,United Trading 0018,Packaging,Vietnam,Hanoi,24,4.95,99.42,4.6,65.43
+SUP0019,Elite Supplies 0019,Chemicals,South Korea,Busan,12,3.78,93.75,4.9,46.34
+SUP0020,United Distributors 0020,Chemicals,China,Shenzhen,29,2.62,96.57,3.8,24.78
+SUP0021,National Corporation 0021,Raw Materials,Bangladesh,Chittagong,26,3.74,94.17,4.8,78.94
+SUP0022,Strategic Distributors 0022,Food & Grocery,Germany,Hamburg,19,4.13,85.49,4.3,83.83
+SUP0023,National Industries 0023,Logistics,Singapore,Singapore,9,1.09,88.92,3.4,86.24
+SUP0024,Advanced Exports 0024,Raw Materials,Vietnam,Ho Chi Minh City,12,3.55,87.72,4.1,82.63
+SUP0025,Global Exports 0025,Food & Grocery,Bangladesh,Dhaka,24,1.33,96.27,3.3,60.04
+SUP0026,Dynamic Supplies 0026,Textiles,Thailand,Bangkok,27,3.58,98.19,3.4,20.79
+SUP0027,NextGen Trading 0027,Food & Grocery,Japan,Nagoya,29,4.3,90.48,3.3,45.35
+SUP0028,Strategic Distributors 0028,Logistics,Singapore,Singapore,11,1.86,86.5,3.2,94.02
+SUP0029,United Partners 0029,Raw Materials,Indonesia,Jakarta,13,0.68,93.88,4.3,39.73
+SUP0030,Dynamic Solutions 0030,Textiles,Vietnam,Da Nang,14,2.68,89.49,4.7,59.24
+SUP0031,National Partners 0031,Textiles,USA,Chicago,21,1.24,93.42,3.8,77.66
+SUP0032,Strategic Solutions 0032,Packaging,Japan,Nagoya,2,1.74,94.36,4.2,84.35
+SUP0033,Global Solutions 0033,Food & Grocery,USA,Los Angeles,20,0.82,85.89,3,12.89
+SUP0034,Reliable Partners 0034,Raw Materials,Vietnam,Da Nang,6,3.11,86.17,3.7,59.32
+SUP0035,Strategic Industries 0035,Packaging,Malaysia,Kuala Lumpur,26,2.05,91.15,3.5,86.02
+SUP0036,NextGen Partners 0036,Chemicals,Bangladesh,Chittagong,21,1.6,89.45,3.8,54.02
+SUP0037,Prime Wholesale 0037,Raw Materials,Thailand,Bangkok,7,3.43,96.69,4.4,16.35
+SUP0038,Global Trading 0038,Packaging,South Korea,Seoul,10,3.71,94.19,3.7,47.68
+SUP0039,Strategic Corporation 0039,Food & Grocery,USA,Chicago,17,3.36,90.37,3.9,63.04
+SUP0040,Rapid Distributors 0040,Packaging,China,Guangzhou,18,4.38,99.27,3.6,74.37
+SUP0041,Advanced Wholesale 0041,Packaging,Mexico,Monterrey,3,4.66,91.82,4.3,49.12
+SUP0042,National Distributors 0042,Electronics,India,Mumbai,21,1.98,92.94,3.8,19.33
+SUP0043,United Exports 0043,Chemicals,Thailand,Chiang Mai,14,3.78,88.33,3.1,61.65
+SUP0044,Smart Solutions 0044,Food & Grocery,Singapore,Singapore,17,0.6,90.39,4.8,88.43
+SUP0045,Reliable Logistics 0045,Logistics,India,Delhi,29,2.98,94.97,4.2,79
+SUP0046,Prime Solutions 0046,Textiles,Bangladesh,Dhaka,30,3,98.99,4.7,88.66
+SUP0047,Strategic Supplies 0047,Chemicals,Mexico,Monterrey,13,3.74,88.92,4.2,28.87
+SUP0048,NextGen Wholesale 0048,Packaging,South Korea,Busan,26,0.85,96.05,4.8,55.97
+SUP0049,Elite Supplies 0049,Raw Materials,Bangladesh,Dhaka,7,1.31,94.05,4.6,54.91
+SUP0050,NextGen Supplies 0050,Textiles,Singapore,Singapore,28,1.51,94.64,4.2,50.2
+SUP0051,Elite Solutions 0051,Electronics,Japan,Tokyo,13,1.28,96.09,4,40.01
+SUP0052,Dynamic Exports 0052,Textiles,Malaysia,Kuala Lumpur,6,0.95,90.74,3.6,19.2
+SUP0053,Dynamic Trading 0053,Packaging,Indonesia,Jakarta,7,0.51,91.31,4.7,22.15
+SUP0054,NextGen Solutions 0054,Logistics,China,Shanghai,19,1.8,93.49,4.5,45.08
+SUP0055,National Supplies 0055,Raw Materials,Thailand,Bangkok,12,3.09,90.87,4,18.03
+SUP0056,NextGen Supplies 0056,Electronics,Bangladesh,Chittagong,27,1.54,89.14,4.3,79.09
+SUP0057,United Wholesale 0057,Chemicals,Vietnam,Ho Chi Minh City,8,2.19,85.22,3.9,65.78
+SUP0058,Modern Trading 0058,Raw Materials,Japan,Nagoya,12,4.5,95.63,4.5,55.84
+SUP0059,United Corporation 0059,Chemicals,Vietnam,Ho Chi Minh City,3,1.05,97.86,3.8,93.03
+SUP0060,Rapid Industries 0060,Textiles,Japan,Tokyo,20,4.34,90.17,4.7,57.42
+SUP0061,Dynamic Logistics 0061,Raw Materials,Mexico,Mexico City,19,2.78,94.33,3.8,46.2
+SUP0062,NextGen Partners 0062,Textiles,USA,Chicago,6,0.67,88.57,5,62.95
+SUP0063,Dynamic Partners 0063,Packaging,Mexico,Monterrey,12,3.14,91.99,3.3,23.32
+SUP0064,Rapid Trading 0064,Packaging,Germany,Munich,18,1.74,92.83,4.4,21.06
+SUP0065,NextGen Industries 0065,Textiles,India,Mumbai,23,1.17,88.9,4.8,34.5
+SUP0066,Modern Corporation 0066,Textiles,Vietnam,Hanoi,24,2.31,86.93,4.4,50.27
+SUP0067,Premium Logistics 0067,Packaging,Japan,Nagoya,20,1,88.84,3,57.97
+SUP0068,Future Trading 0068,Logistics,Thailand,Chiang Mai,2,0.68,94.81,3.3,54.75
+SUP0069,Smart Industries 0069,Packaging,USA,New York,11,4.71,92.86,4.9,37.76
+SUP0070,Prime Corporation 0070,Electronics,USA,Chicago,30,1.64,93.59,3.5,40.14
+SUP0071,Modern Partners 0071,Chemicals,USA,Los Angeles,7,2.53,92.19,4.9,54.04
+SUP0072,Reliable Logistics 0072,Textiles,Malaysia,Kuala Lumpur,29,0.65,94.16,3.2,15.78
+SUP0073,Premium Logistics 0073,Food & Grocery,Singapore,Singapore,29,4.36,92.01,3.2,85.98
+SUP0074,Advanced Industries 0074,Raw Materials,South Korea,Seoul,9,1.68,90.53,4,94.64
+SUP0075,Global Trading 0075,Electronics,China,Shenzhen,2,4.31,93.6,3.7,48.55
+SUP0076,Rapid Exports 0076,Food & Grocery,Singapore,Singapore,21,4.77,90.92,4.8,85.12
+SUP0077,United Trading 0077,Textiles,Indonesia,Surabaya,24,1.58,90.17,3.5,52.91
+SUP0078,National Partners 0078,Electronics,Indonesia,Surabaya,21,1.36,98.07,3.2,63.78
+SUP0079,Prime Logistics 0079,Raw Materials,Vietnam,Da Nang,5,4.74,89.39,4.4,71.28
+SUP0080,Smart Trading 0080,Raw Materials,Japan,Tokyo,3,2.57,93.55,3.8,65.08
+SUP0081,Modern Industries 0081,Electronics,Singapore,Singapore,30,4.53,90.79,4.2,38.6
+SUP0082,National Distributors 0082,Textiles,Thailand,Chiang Mai,30,2.7,94.93,4.8,28.22
+SUP0083,Global Wholesale 0083,Textiles,USA,Chicago,7,1.34,87.94,3.2,84.42
+SUP0084,National Exports 0084,Chemicals,Japan,Tokyo,20,4.33,95.99,3.4,78.98
+SUP0085,United Wholesale 0085,Packaging,Bangladesh,Dhaka,18,2.89,86.1,4.3,45.73
+SUP0086,Smart Supplies 0086,Packaging,Malaysia,Penang,18,4.44,97.72,3.7,36.42
+SUP0087,Advanced Solutions 0087,Textiles,Singapore,Singapore,13,4.38,91.52,3.8,30.57
+SUP0088,Future Industries 0088,Logistics,Mexico,Monterrey,13,3.77,98.52,4.7,14.61
+SUP0089,Prime Corporation 0089,Textiles,India,Ahmedabad,24,3.38,95.88,3.9,55.27
+SUP0090,Reliable Exports 0090,Textiles,Bangladesh,Chittagong,23,4.04,86.64,3.2,75.31
+SUP0091,Strategic Partners 0091,Electronics,China,Shanghai,4,2.05,86.84,4.9,21
+SUP0092,Modern Distributors 0092,Chemicals,Indonesia,Jakarta,30,3.39,99.33,3.1,71.76
+SUP0093,Future Trading 0093,Chemicals,Germany,Munich,4,3.57,93.37,4.8,90.05
+SUP0094,Dynamic Logistics 0094,Food & Grocery,South Korea,Busan,13,2.6,88.99,3.5,81.46
+SUP0095,Prime Supplies 0095,Logistics,Indonesia,Surabaya,17,2.84,96.59,4,13.47
+SUP0096,Dynamic Distributors 0096,Packaging,Japan,Tokyo,19,1.51,89.35,3.9,27.96
+SUP0097,United Solutions 0097,Textiles,Bangladesh,Dhaka,10,3.07,91.34,4.3,75.29
+SUP0098,Strategic Trading 0098,Food & Grocery,Indonesia,Jakarta,3,3.32,91.57,3.3,54.44
+SUP0099,National Solutions 0099,Logistics,Mexico,Mexico City,13,2.9,95.77,4.8,31.92
+SUP0100,NextGen Supplies 0100,Chemicals,South Korea,Seoul,3,4.8,96.79,4.4,45.77
+SUP0101,Prime Corporation 0101,Textiles,Thailand,Bangkok,3,3.48,85.04,4.1,51.97
+SUP0102,National Trading 0102,Food & Grocery,Bangladesh,Dhaka,9,1.33,90.05,3.8,40.43
+SUP0103,NextGen Supplies 0103,Packaging,Germany,Munich,4,2.5,94.65,3.5,92.73
+SUP0104,Advanced Exports 0104,Logistics,Thailand,Bangkok,14,3.07,99.39,4.3,24.7
+SUP0105,Future Corporation 0105,Electronics,Mexico,Mexico City,5,4.78,95.2,4.8,75.54
+SUP0106,NextGen Partners 0106,Packaging,Japan,Osaka,23,4.51,88.08,4,52.39
+SUP0107,United Wholesale 0107,Logistics,Mexico,Mexico City,15,1.62,98.69,4.5,28
+SUP0108,Reliable Distributors 0108,Raw Materials,Germany,Munich,27,3.51,97.63,3.1,70.15
+SUP0109,Modern Supplies 0109,Raw Materials,Vietnam,Hanoi,7,4.93,85.81,4.9,94.49
+SUP0110,Strategic Exports 0110,Chemicals,Japan,Osaka,10,0.86,95.28,4.8,55.32
+SUP0111,Rapid Trading 0111,Packaging,Malaysia,Kuala Lumpur,26,3.15,85.35,4.5,39.03
+SUP0112,Rapid Industries 0112,Logistics,Malaysia,Penang,10,1.33,94.72,4.5,21.97
+SUP0113,Prime Exports 0113,Chemicals,Indonesia,Surabaya,22,4.8,90.61,5,61.85
+SUP0114,National Wholesale 0114,Textiles,Thailand,Chiang Mai,21,2.08,88.83,3.9,57.76
+SUP0115,Future Corporation 0115,Chemicals,USA,Chicago,30,1.53,93.62,4.5,46.76
+SUP0116,Modern Wholesale 0116,Chemicals,USA,Chicago,5,4.86,96.98,5,73.45
+SUP0117,Elite Supplies 0117,Electronics,Vietnam,Hanoi,10,3.19,94.35,3.6,84.89
+SUP0118,Rapid Industries 0118,Raw Materials,South Korea,Seoul,16,3.73,89.05,3.7,82.41
+SUP0119,Premium Industries 0119,Raw Materials,Thailand,Chiang Mai,18,4.46,95.23,3.2,42.07
+SUP0120,Strategic Trading 0120,Food & Grocery,Vietnam,Da Nang,26,2.39,90.92,4,40.52
+SUP0121,Prime Exports 0121,Logistics,Thailand,Bangkok,14,2.67,99.35,4.6,73.5
+SUP0122,Smart Distributors 0122,Raw Materials,Mexico,Monterrey,14,2.08,95.84,4.5,73.21
+SUP0123,Smart Supplies 0123,Packaging,India,Pune,30,2.83,97.23,3.8,19.72
+SUP0124,United Distributors 0124,Packaging,Singapore,Singapore,7,3.03,94.73,5,35.31
+SUP0125,Advanced Partners 0125,Raw Materials,Japan,Nagoya,25,2.72,93.75,4.4,70.62
+SUP0126,Rapid Exports 0126,Raw Materials,Indonesia,Jakarta,22,1.01,92.8,3.2,91.78
+SUP0127,National Industries 0127,Raw Materials,Vietnam,Ho Chi Minh City,20,4.71,86.85,3.1,50.23
+SUP0128,Dynamic Trading 0128,Electronics,Germany,Berlin,11,4.62,99.27,3.9,22.82
+SUP0129,Prime Solutions 0129,Logistics,Thailand,Chiang Mai,17,0.92,95.52,3.7,47.08
+SUP0130,Prime Exports 0130,Electronics,Indonesia,Surabaya,26,0.79,98.91,4.5,38.8
+SUP0131,NextGen Partners 0131,Textiles,South Korea,Busan,15,1.14,88.64,3.3,47.99
+SUP0132,National Logistics 0132,Food & Grocery,South Korea,Busan,5,1.13,90.72,3.6,70.03
+SUP0133,United Solutions 0133,Packaging,Indonesia,Surabaya,16,3.36,89.56,3.6,72.11
+SUP0134,Prime Exports 0134,Food & Grocery,Singapore,Singapore,30,1.5,93.42,4,10.85
+SUP0135,United Wholesale 0135,Food & Grocery,Singapore,Singapore,16,1.55,98.44,3.2,70.53
+SUP0136,Premium Solutions 0136,Textiles,India,Hyderabad,28,3.24,88.9,4.7,73.93
+SUP0137,United Distributors 0137,Logistics,Indonesia,Surabaya,29,3.78,91.84,3.6,87.3
+SUP0138,Future Solutions 0138,Electronics,Japan,Tokyo,11,2.64,92.73,4.9,70.52
+SUP0139,Dynamic Logistics 0139,Food & Grocery,India,Mumbai,7,2.91,87.86,3.2,20.91
+SUP0140,Smart Trading 0140,Packaging,USA,New York,28,0.62,93.13,3.9,31.56
+SUP0141,National Trading 0141,Packaging,China,Guangzhou,17,1.05,89.23,3.1,50.71
+SUP0142,Future Wholesale 0142,Food & Grocery,Japan,Osaka,15,1.07,86.73,4.6,35.49
+SUP0143,Elite Partners 0143,Raw Materials,Germany,Hamburg,13,3.82,91,3.1,68.09
+SUP0144,Future Corporation 0144,Textiles,Mexico,Mexico City,23,2.79,99.49,3.2,78.49
+SUP0145,Reliable Corporation 0145,Chemicals,USA,Chicago,9,2.22,99.03,3.9,65.82
+SUP0146,Future Corporation 0146,Food & Grocery,Indonesia,Surabaya,14,2.66,90.16,4.5,30.23
+SUP0147,Future Corporation 0147,Chemicals,Malaysia,Penang,14,3.49,93.07,4.9,94.13
+SUP0148,Prime Corporation 0148,Logistics,Malaysia,Kuala Lumpur,29,2.24,94.28,3.7,92.45
+SUP0149,Premium Partners 0149,Chemicals,Bangladesh,Dhaka,17,1.86,97.74,3.2,63.92
+SUP0150,Reliable Logistics 0150,Food & Grocery,South Korea,Busan,10,3.4,86.84,3.8,83.2
+SUP0151,Prime Logistics 0151,Packaging,Singapore,Singapore,23,3.95,89.37,4.2,54.29
+SUP0152,National Logistics 0152,Electronics,Vietnam,Hanoi,30,2.34,91.11,3.6,57.02
+SUP0153,NextGen Corporation 0153,Raw Materials,Indonesia,Surabaya,13,4.23,95.4,4.7,6.12
+SUP0154,Strategic Supplies 0154,Food & Grocery,Mexico,Monterrey,15,3.15,98.6,3.1,77.54
+SUP0155,United Exports 0155,Logistics,Bangladesh,Dhaka,29,3.18,97.9,4.5,60.93
+SUP0156,Modern Solutions 0156,Textiles,Germany,Hamburg,25,2.42,89.99,3.6,45.88
+SUP0157,Future Supplies 0157,Chemicals,Bangladesh,Dhaka,14,1.39,92.77,4.4,63.47
+SUP0158,Strategic Supplies 0158,Electronics,Bangladesh,Chittagong,22,3.85,88.14,3.5,83.4
+SUP0159,Modern Supplies 0159,Electronics,Japan,Nagoya,22,1.74,97.97,4.4,89.48
+SUP0160,Modern Trading 0160,Chemicals,Mexico,Monterrey,30,3.05,93.12,4.7,33.55
+SUP0161,United Distributors 0161,Raw Materials,Bangladesh,Chittagong,26,1.54,85.75,4.8,83.07
+SUP0162,Global Supplies 0162,Chemicals,Bangladesh,Dhaka,16,3.15,91.82,3.6,94.43
+SUP0163,Strategic Partners 0163,Logistics,Indonesia,Surabaya,3,1.64,87.6,3.8,23.71
+SUP0164,Modern Trading 0164,Textiles,Mexico,Mexico City,14,3.06,97.55,4.7,38.98
+SUP0165,Premium Wholesale 0165,Chemicals,Mexico,Monterrey,24,1.75,93.6,4.8,37.49
+SUP0166,Advanced Logistics 0166,Food & Grocery,Bangladesh,Chittagong,5,3.29,90.6,3.4,17.9
+SUP0167,Future Logistics 0167,Logistics,Vietnam,Ho Chi Minh City,13,4.77,88.54,3.8,28.02
+SUP0168,NextGen Corporation 0168,Raw Materials,China,Shanghai,8,1.39,88.92,4.8,92.9
+SUP0169,Advanced Industries 0169,Logistics,Malaysia,Kuala Lumpur,9,4.61,91.24,3.5,52.27
+SUP0170,Future Trading 0170,Chemicals,Singapore,Singapore,19,2.66,95.08,4,43.03
+SUP0171,Strategic Solutions 0171,Logistics,Malaysia,Penang,28,3.72,94.35,4.3,32.85
+SUP0172,Dynamic Solutions 0172,Textiles,Mexico,Mexico City,8,0.69,92.85,4.5,74.4
+SUP0173,Prime Distributors 0173,Textiles,Vietnam,Ho Chi Minh City,6,2.54,95.33,3.1,48.61
+SUP0174,United Exports 0174,Logistics,Malaysia,Kuala Lumpur,20,2.62,97.2,4.5,58.71
+SUP0175,National Exports 0175,Logistics,India,Delhi,12,0.62,91.84,4.6,86.37
+SUP0176,Dynamic Distributors 0176,Chemicals,South Korea,Seoul,18,0.51,85.28,3.5,43.33
+SUP0177,Dynamic Partners 0177,Packaging,Indonesia,Jakarta,23,1.34,89.22,4.3,81.35
+SUP0178,Elite Supplies 0178,Electronics,Singapore,Singapore,28,0.86,97.85,4.8,81.26
+SUP0179,Strategic Solutions 0179,Electronics,USA,Chicago,6,1.82,85.79,4.4,86.98
+SUP0180,Global Wholesale 0180,Electronics,Germany,Berlin,19,4.06,90.28,4.8,5.48
+SUP0181,Modern Trading 0181,Chemicals,Indonesia,Surabaya,4,3.83,95.97,3.9,94.14
+SUP0182,Reliable Distributors 0182,Electronics,Bangladesh,Dhaka,17,3.48,90.51,3.4,21.15
+SUP0183,National Distributors 0183,Electronics,Indonesia,Jakarta,21,4.02,89.21,4.2,88.63
+SUP0184,United Distributors 0184,Chemicals,Malaysia,Penang,12,3.54,85.62,3.5,51.84
+SUP0185,Smart Wholesale 0185,Food & Grocery,Indonesia,Surabaya,21,4.68,98.46,3.5,29.18
+SUP0186,Premium Corporation 0186,Electronics,Mexico,Monterrey,22,4.43,91.25,4.6,48.75
+SUP0187,Prime Exports 0187,Textiles,Vietnam,Ho Chi Minh City,9,2.59,92.88,4.7,61.45
+SUP0188,Dynamic Wholesale 0188,Logistics,USA,New York,17,3.81,88.67,4.4,39
+SUP0189,Dynamic Wholesale 0189,Packaging,Singapore,Singapore,7,1.05,90.45,4.7,42.19
+SUP0190,Modern Wholesale 0190,Raw Materials,China,Shenzhen,12,1.15,89.21,3.6,48.15
+SUP0191,Global Logistics 0191,Packaging,Singapore,Singapore,11,1.69,98.62,3.5,33.93
+SUP0192,Advanced Logistics 0192,Logistics,Vietnam,Da Nang,2,4.03,87.66,3.1,11.6
+SUP0193,Smart Solutions 0193,Food & Grocery,Bangladesh,Dhaka,14,1.61,90.89,4.3,74.28
+SUP0194,NextGen Partners 0194,Packaging,India,Mumbai,15,2.7,93.8,4.6,77.78
+SUP0195,Dynamic Logistics 0195,Electronics,Japan,Osaka,2,1.74,85.8,4.3,82.91
+SUP0196,NextGen Industries 0196,Textiles,Malaysia,Kuala Lumpur,19,1.61,92.32,3.3,43.53
+SUP0197,Rapid Industries 0197,Food & Grocery,Vietnam,Da Nang,10,3.81,98.24,4.2,62.15
+SUP0198,Elite Wholesale 0198,Electronics,Thailand,Chiang Mai,28,3.72,87.13,4.3,85.63
+SUP0199,Premium Exports 0199,Chemicals,India,Bangalore,13,2.34,86.27,3.9,38.19
+SUP0200,Future Logistics 0200,Packaging,Japan,Nagoya,7,2.62,98.54,3.3,24.01
+SUP0201,Strategic Logistics 0201,Chemicals,Indonesia,Surabaya,25,2.37,86.58,4.5,19.81
+SUP0202,Rapid Solutions 0202,Textiles,Indonesia,Jakarta,16,1.7,97.82,3.2,51.01
+SUP0203,Rapid Partners 0203,Electronics,USA,New York,2,2.92,96.39,4,31.09
+SUP0204,Global Distributors 0204,Food & Grocery,Singapore,Singapore,4,1.7,98.64,4.9,25.87
+SUP0205,Prime Supplies 0205,Chemicals,Malaysia,Kuala Lumpur,28,3.21,97.68,4.1,82.59
+SUP0206,Dynamic Industries 0206,Logistics,Germany,Berlin,14,0.81,94.32,3.4,6.52
+SUP0207,United Supplies 0207,Raw Materials,Indonesia,Surabaya,2,4.1,88.27,4.6,38.38
+SUP0208,Strategic Distributors 0208,Packaging,Germany,Berlin,3,3.54,85.48,3.6,91.85
+SUP0209,Smart Exports 0209,Packaging,India,Hyderabad,5,3.25,92.7,4.7,23.75
+SUP0210,National Distributors 0210,Textiles,China,Shanghai,5,2.32,92.8,3.3,67.41
+SUP0211,Premium Corporation 0211,Chemicals,Vietnam,Hanoi,2,2.09,92.3,3.8,28.29
+SUP0212,Global Wholesale 0212,Electronics,Mexico,Mexico City,8,3.11,94.13,4,19.67
+SUP0213,Smart Industries 0213,Electronics,Germany,Munich,23,2.01,89.5,4,38.21
+SUP0214,Future Industries 0214,Textiles,South Korea,Busan,3,2.51,94.93,3.5,46.06
+SUP0215,Elite Industries 0215,Logistics,USA,Dallas,25,2.18,85.18,4.2,90.96
+SUP0216,Elite Partners 0216,Chemicals,Mexico,Monterrey,26,4.36,88.79,4.5,25.08
+SUP0217,Elite Exports 0217,Packaging,Singapore,Singapore,28,4.72,95.73,3.2,30.56
+SUP0218,Global Trading 0218,Packaging,Indonesia,Surabaya,30,2.85,91.98,3.8,78.14
+SUP0219,Advanced Distributors 0219,Packaging,India,Hyderabad,24,2.62,95.06,4.8,62.72
+SUP0220,Dynamic Supplies 0220,Raw Materials,India,Hyderabad,14,4.6,98.84,4.1,34.14
+SUP0221,Advanced Exports 0221,Food & Grocery,China,Beijing,12,1.11,86.36,3.7,32.66
+SUP0222,Dynamic Logistics 0222,Electronics,South Korea,Seoul,21,0.76,85.14,3.7,21.54
+SUP0223,Global Supplies 0223,Packaging,Bangladesh,Dhaka,26,3.95,88.17,3.1,32.84
+SUP0224,Global Partners 0224,Food & Grocery,Bangladesh,Chittagong,29,4.18,86.33,3.4,66.88
+SUP0225,Premium Corporation 0225,Packaging,Malaysia,Kuala Lumpur,23,0.96,88.02,3.2,49.33
+SUP0226,Smart Partners 0226,Raw Materials,Mexico,Mexico City,29,1.99,85.91,4.4,80.74
+SUP0227,Global Trading 0227,Electronics,Thailand,Chiang Mai,5,3.81,86.42,3.1,55.4
+SUP0228,NextGen Corporation 0228,Packaging,Germany,Berlin,12,4.6,95.3,4.2,9.63
+SUP0229,Global Partners 0229,Logistics,Indonesia,Jakarta,27,1.2,90.39,4.7,90.96
+SUP0230,NextGen Exports 0230,Textiles,Mexico,Monterrey,20,4.13,98.54,3.1,26.65
+SUP0231,Global Corporation 0231,Chemicals,China,Guangzhou,7,0.76,93.39,4.2,67.28
+SUP0232,Strategic Corporation 0232,Food & Grocery,Vietnam,Hanoi,12,1.06,96.79,4.8,92.44
+SUP0233,Reliable Logistics 0233,Textiles,Indonesia,Jakarta,17,1.83,94.69,4,60.81
+SUP0234,Elite Partners 0234,Textiles,Singapore,Singapore,16,3.49,91.17,3.7,83.92
+SUP0235,United Solutions 0235,Electronics,Vietnam,Hanoi,9,3.29,97.83,3,76.1
+SUP0236,Modern Partners 0236,Textiles,Mexico,Mexico City,9,2.68,92.87,4.8,91.05
+SUP0237,Reliable Industries 0237,Packaging,Germany,Munich,17,2.5,97.71,3.8,6.07
+SUP0238,NextGen Corporation 0238,Textiles,Mexico,Mexico City,5,0.87,89.73,5,23.39
+SUP0239,Future Exports 0239,Packaging,Japan,Nagoya,21,2.09,91.03,4.1,34.55
+SUP0240,United Exports 0240,Textiles,India,Mumbai,11,1.62,93.49,3.7,74.68
+SUP0241,Dynamic Partners 0241,Food & Grocery,Malaysia,Penang,17,2.45,94.41,4.3,30.6
+SUP0242,NextGen Industries 0242,Electronics,Malaysia,Kuala Lumpur,8,2.22,98.14,4.6,33.4
+SUP0243,Premium Logistics 0243,Chemicals,Mexico,Mexico City,26,0.72,95.14,3.3,32.87
+SUP0244,Modern Trading 0244,Chemicals,Mexico,Monterrey,18,2.62,97.85,5,48.32
+SUP0245,Smart Exports 0245,Chemicals,USA,Dallas,8,1.21,87.42,3.7,64.39
+SUP0246,Prime Supplies 0246,Chemicals,Japan,Tokyo,15,3.38,95.54,3.6,87.75
+SUP0247,United Logistics 0247,Logistics,Germany,Berlin,7,1.78,91.86,3.7,27.05
+SUP0248,Reliable Trading 0248,Food & Grocery,Singapore,Singapore,27,3.58,98.02,4.6,46.39
+SUP0249,United Exports 0249,Textiles,Thailand,Bangkok,10,3.63,86.14,4.7,53.39
+SUP0250,Strategic Supplies 0250,Packaging,Malaysia,Penang,20,4.26,97.39,4.3,68.96
+SUP0251,Dynamic Logistics 0251,Chemicals,Mexico,Mexico City,28,4.46,91.68,3.3,50.99
+SUP0252,Strategic Wholesale 0252,Logistics,Indonesia,Surabaya,25,1.59,91.08,4,52.84
+SUP0253,Global Wholesale 0253,Logistics,Singapore,Singapore,20,1.32,86.58,3.9,80.9
+SUP0254,National Partners 0254,Chemicals,Vietnam,Da Nang,30,4.32,88.85,3.7,78.53
+SUP0255,Future Industries 0255,Food & Grocery,South Korea,Seoul,19,3.71,96.78,4.9,22.53
+SUP0256,Strategic Corporation 0256,Raw Materials,Malaysia,Kuala Lumpur,28,3.38,90.92,4.4,9.82
+SUP0257,Strategic Corporation 0257,Food & Grocery,Malaysia,Kuala Lumpur,22,4.12,88.37,4.3,21.32
+SUP0258,Global Corporation 0258,Packaging,Mexico,Monterrey,24,4.31,85.86,4.8,31.1
+SUP0259,Advanced Solutions 0259,Textiles,India,Pune,13,2.59,86.59,4.7,14.35
+SUP0260,Smart Distributors 0260,Packaging,Germany,Munich,16,4.16,94.6,4,15.79
+SUP0261,United Trading 0261,Electronics,Indonesia,Surabaya,9,3.56,93.32,4,45.19
+SUP0262,Reliable Wholesale 0262,Logistics,South Korea,Busan,2,4.63,92.67,4.6,41.24
+SUP0263,Dynamic Distributors 0263,Raw Materials,Bangladesh,Dhaka,18,3.23,94.26,5,78.56
+SUP0264,Modern Supplies 0264,Textiles,China,Guangzhou,9,0.87,87.11,3.5,7.91
+SUP0265,Rapid Distributors 0265,Raw Materials,Vietnam,Hanoi,21,2.89,93.59,3.6,38.02
+SUP0266,Future Logistics 0266,Electronics,China,Guangzhou,21,4.07,97.26,4,47.44
+SUP0267,United Industries 0267,Chemicals,Germany,Munich,29,3.87,89.02,4.1,87.67
+SUP0268,Smart Supplies 0268,Food & Grocery,USA,New York,9,1.18,96.66,4.8,42.97
+SUP0269,NextGen Solutions 0269,Logistics,Mexico,Mexico City,27,1.89,97.99,4.2,7.97
+SUP0270,Future Trading 0270,Logistics,Vietnam,Hanoi,13,0.9,94.13,4,51.06
+SUP0271,Modern Supplies 0271,Logistics,India,Bangalore,28,3.23,93.29,3.6,91.65
+SUP0272,Premium Wholesale 0272,Raw Materials,Singapore,Singapore,25,3.05,97.56,4.3,30.97
+SUP0273,Future Solutions 0273,Textiles,Japan,Tokyo,20,2.51,96.97,3.8,34.03
+SUP0274,Strategic Industries 0274,Electronics,Thailand,Chiang Mai,27,1.03,98.14,3.3,67.44
+SUP0275,Smart Supplies 0275,Electronics,Japan,Tokyo,28,3.32,90.33,4.6,49.22
+SUP0276,United Industries 0276,Textiles,India,Pune,23,1.43,97.31,3.2,15.07
+SUP0277,Advanced Partners 0277,Logistics,Vietnam,Hanoi,15,3.81,90.54,4.6,62.38
+SUP0278,Future Exports 0278,Packaging,India,Pune,7,1.49,87.81,4.7,20.05
+SUP0279,Global Wholesale 0279,Electronics,Germany,Hamburg,11,1.97,94.95,4.6,54.83
+SUP0280,NextGen Partners 0280,Logistics,Malaysia,Kuala Lumpur,4,4.51,85.66,4.8,57.42
+SUP0281,Reliable Solutions 0281,Packaging,Vietnam,Hanoi,30,1.74,86.93,3.3,93.18
+SUP0282,Prime Exports 0282,Packaging,Indonesia,Jakarta,28,3.67,87.1,4.4,74.97
+SUP0283,Elite Trading 0283,Food & Grocery,Japan,Osaka,29,4.94,92.98,4.1,67.24
+SUP0284,National Wholesale 0284,Logistics,Germany,Hamburg,5,1.62,89.08,4.7,5.96
+SUP0285,Elite Wholesale 0285,Electronics,India,Bangalore,23,1.87,96.61,3.8,49.39
+SUP0286,Dynamic Exports 0286,Textiles,South Korea,Busan,27,1.65,85.48,3.4,74.08
+SUP0287,Smart Wholesale 0287,Raw Materials,Thailand,Chiang Mai,6,3.19,87,3.2,32.92
+SUP0288,Advanced Partners 0288,Textiles,India,Ahmedabad,20,3.95,92.08,3.2,75.31
+SUP0289,Premium Wholesale 0289,Electronics,South Korea,Seoul,6,2.11,96.87,3.3,38.69
+SUP0290,Elite Corporation 0290,Textiles,India,Pune,27,2.93,85.45,3.5,35.11
+SUP0291,NextGen Industries 0291,Packaging,Mexico,Mexico City,9,2,96.41,4.2,16.28
+SUP0292,National Solutions 0292,Chemicals,Indonesia,Jakarta,27,4.68,91.04,3.3,47.13
+SUP0293,Modern Wholesale 0293,Electronics,Vietnam,Ho Chi Minh City,10,2.37,96.67,4.6,55.04
+SUP0294,United Supplies 0294,Chemicals,USA,Dallas,30,1.84,86.6,3.6,54.39
+SUP0295,Rapid Supplies 0295,Electronics,China,Shanghai,23,0.91,96.21,3.7,75.22
+SUP0296,United Wholesale 0296,Raw Materials,South Korea,Busan,23,3.67,94.14,3.9,51.64
+SUP0297,Global Distributors 0297,Chemicals,Germany,Hamburg,14,2.2,87.76,4.8,64.31
+SUP0298,National Supplies 0298,Logistics,China,Shanghai,16,1.44,87.09,3.7,69.25
+SUP0299,Elite Partners 0299,Textiles,Germany,Munich,17,1.29,92.29,3.7,64.3
+SUP0300,Prime Industries 0300,Logistics,Malaysia,Kuala Lumpur,10,3.8,85.33,3,65.93
+SUP0301,Smart Corporation 0301,Food & Grocery,Singapore,Singapore,9,2.11,85.22,4.1,51.81
+SUP0302,Prime Trading 0302,Textiles,Indonesia,Jakarta,8,2.76,92.46,5,30.26
+SUP0303,Dynamic Partners 0303,Packaging,Germany,Berlin,13,0.95,90.28,4.6,21.72
+SUP0304,National Distributors 0304,Food & Grocery,Singapore,Singapore,19,0.61,93.92,5,25.16
+SUP0305,Strategic Trading 0305,Food & Grocery,Japan,Tokyo,13,3.92,99.39,4.4,90.65
+SUP0306,Dynamic Wholesale 0306,Chemicals,Bangladesh,Chittagong,7,1.54,93.53,3.4,31.72
+SUP0307,Future Logistics 0307,Food & Grocery,India,Bangalore,25,1.59,94.03,4,68.99
+SUP0308,Future Wholesale 0308,Packaging,India,Hyderabad,19,4.67,97.46,3.4,73.34
+SUP0309,National Trading 0309,Raw Materials,China,Beijing,12,4.51,93.15,4.8,68.41
+SUP0310,Advanced Wholesale 0310,Food & Grocery,South Korea,Busan,13,1.29,96.86,4.8,55.82
+SUP0311,Premium Industries 0311,Chemicals,China,Shanghai,16,3.29,86.37,4.7,29.03
+SUP0312,Dynamic Solutions 0312,Packaging,Germany,Berlin,3,3.15,96.59,3.5,79.04
+SUP0313,Prime Supplies 0313,Food & Grocery,Singapore,Singapore,17,3.35,88.87,3.2,9.63
+SUP0314,Smart Partners 0314,Chemicals,Indonesia,Surabaya,22,1.51,85.24,3.1,41.32
+SUP0315,Global Logistics 0315,Chemicals,Vietnam,Ho Chi Minh City,3,4.78,93.64,4.7,84.46
+SUP0316,Rapid Logistics 0316,Textiles,India,Delhi,30,4.45,87.01,3.5,67.59
+SUP0317,Premium Solutions 0317,Packaging,Germany,Munich,3,4.14,88.33,4.3,64.19
+SUP0318,Global Industries 0318,Food & Grocery,Indonesia,Jakarta,5,0.83,98.55,4,78.38
+SUP0319,Modern Solutions 0319,Raw Materials,Vietnam,Da Nang,23,0.72,99.15,3.3,31.71
+SUP0320,National Exports 0320,Chemicals,Singapore,Singapore,22,4.59,95.64,3.8,53.01
+SUP0321,Strategic Supplies 0321,Logistics,Japan,Osaka,10,3.65,86.25,4.2,47.65
+SUP0322,Prime Distributors 0322,Food & Grocery,Thailand,Bangkok,11,1.01,95.85,4.7,48.37
+SUP0323,Advanced Partners 0323,Textiles,Japan,Osaka,12,4.26,91.43,3.4,39.08
+SUP0324,National Partners 0324,Electronics,China,Shanghai,5,1.44,85.85,3.3,69.49
+SUP0325,Rapid Distributors 0325,Textiles,Thailand,Bangkok,23,1.93,98.36,3.3,36.57
+SUP0326,Future Logistics 0326,Textiles,Indonesia,Jakarta,16,1.29,97.56,3.1,64.61
+SUP0327,Global Partners 0327,Electronics,Indonesia,Surabaya,25,1.06,95.86,3.3,23.62
+SUP0328,Future Solutions 0328,Raw Materials,Malaysia,Kuala Lumpur,8,3.33,91.93,4.1,13.95
+SUP0329,Elite Solutions 0329,Packaging,India,Bangalore,16,3.35,92.23,3.8,59.25
+SUP0330,NextGen Distributors 0330,Food & Grocery,China,Shanghai,28,3.86,96.75,4.1,55.72
+SUP0331,United Trading 0331,Food & Grocery,Indonesia,Jakarta,18,2.76,85.66,3.5,78.73
+SUP0332,Elite Partners 0332,Raw Materials,India,Delhi,19,2.77,89.15,4.2,29.1
+SUP0333,Future Industries 0333,Raw Materials,Mexico,Monterrey,10,4.47,91.16,4.1,89.09
+SUP0334,Elite Logistics 0334,Chemicals,Singapore,Singapore,19,2.59,90.64,4.3,5.96
+SUP0335,NextGen Supplies 0335,Textiles,China,Beijing,5,3.28,95.24,3.1,81.52
+SUP0336,Reliable Distributors 0336,Electronics,Bangladesh,Chittagong,8,3.55,94.37,3.4,35.3
+SUP0337,Modern Solutions 0337,Food & Grocery,India,Pune,24,4.98,99.23,3.5,21.99
+SUP0338,Global Trading 0338,Chemicals,China,Shanghai,10,2.56,92.79,4.3,78.74
+SUP0339,Modern Corporation 0339,Packaging,USA,Dallas,9,2.85,94.98,3.8,91.71
+SUP0340,Advanced Logistics 0340,Electronics,China,Beijing,25,1.73,88.56,4.8,7.02
+SUP0341,Future Industries 0341,Textiles,India,Pune,4,1.16,87.83,4.3,79.31
+SUP0342,Rapid Wholesale 0342,Electronics,Germany,Munich,24,1.68,98.89,3.3,30.86
+SUP0343,Future Industries 0343,Textiles,Bangladesh,Chittagong,27,2.91,89.16,4.5,77.18
+SUP0344,Rapid Logistics 0344,Electronics,Japan,Osaka,11,2.84,85.16,3.1,5.69
+SUP0345,Dynamic Solutions 0345,Chemicals,China,Beijing,2,4.73,90.01,3.1,18.61
+SUP0346,Advanced Corporation 0346,Logistics,Bangladesh,Chittagong,12,2.49,92.82,3.9,9.02
+SUP0347,Prime Logistics 0347,Chemicals,Japan,Osaka,7,0.83,85.18,3.8,55.01
+SUP0348,Strategic Trading 0348,Electronics,China,Shanghai,13,4.94,96.92,3.5,64.78
+SUP0349,Prime Trading 0349,Electronics,Mexico,Monterrey,6,4.59,95.3,3.9,71.45
+SUP0350,Elite Distributors 0350,Packaging,Singapore,Singapore,15,2.66,87.28,3.1,88.11
+SUP0351,Rapid Trading 0351,Electronics,Indonesia,Surabaya,13,2.32,93.87,4.4,75.73
+SUP0352,Global Partners 0352,Textiles,Japan,Osaka,8,0.78,86.82,3.7,92.94
+SUP0353,Advanced Trading 0353,Packaging,Japan,Nagoya,2,4.25,98.01,3.6,42.72
+SUP0354,Premium Wholesale 0354,Food & Grocery,USA,Chicago,15,2.28,90.02,4.3,29.35
+SUP0355,Modern Industries 0355,Textiles,India,Hyderabad,23,1.63,91.39,4.6,63.82
+SUP0356,Future Corporation 0356,Food & Grocery,Vietnam,Hanoi,9,4.42,95.19,3.3,92.33
+SUP0357,Modern Distributors 0357,Raw Materials,Singapore,Singapore,13,1.2,93.64,3.7,79.57
+SUP0358,Dynamic Logistics 0358,Logistics,Thailand,Bangkok,20,4.68,90.94,3.5,49.37
+SUP0359,Strategic Distributors 0359,Chemicals,Singapore,Singapore,2,2.76,88.7,4.9,57.07
+SUP0360,Dynamic Industries 0360,Raw Materials,Singapore,Singapore,8,3.03,85.36,4.3,35.04
+SUP0361,NextGen Corporation 0361,Textiles,USA,Los Angeles,8,4.99,95.89,4.5,34.09
+SUP0362,Advanced Supplies 0362,Raw Materials,Germany,Hamburg,4,5,94.6,3.6,28.82
+SUP0363,Advanced Exports 0363,Raw Materials,Japan,Osaka,13,2.37,91.7,3.2,66.22
+SUP0364,Future Corporation 0364,Logistics,Thailand,Chiang Mai,9,1.26,97.76,4.3,12.07
+SUP0365,United Industries 0365,Chemicals,Mexico,Monterrey,19,3.76,92.9,3.6,23.03
+SUP0366,Modern Exports 0366,Textiles,Germany,Berlin,12,4.65,87.59,3.2,45.73
+SUP0367,Modern Logistics 0367,Chemicals,Thailand,Chiang Mai,18,3.11,86.31,3.6,7.92
+SUP0368,Rapid Logistics 0368,Food & Grocery,Mexico,Mexico City,28,2.91,91.63,4.9,49.18
+SUP0369,Elite Distributors 0369,Food & Grocery,China,Guangzhou,30,1.98,96.71,4.8,27.95
+SUP0370,Rapid Partners 0370,Chemicals,Singapore,Singapore,28,0.57,92.31,4.1,19.42
+SUP0371,Dynamic Supplies 0371,Textiles,Japan,Tokyo,24,3.55,91.31,4,16.41
+SUP0372,Reliable Supplies 0372,Chemicals,Mexico,Mexico City,12,2.9,91.24,4.3,70.96
+SUP0373,Reliable Distributors 0373,Packaging,China,Shanghai,16,4.36,91.63,3.3,18.57
+SUP0374,Global Solutions 0374,Electronics,Singapore,Singapore,6,1.95,89.53,3.4,13.44
+SUP0375,Prime Supplies 0375,Chemicals,China,Shanghai,26,4.55,97.26,3.2,90.87
+SUP0376,Rapid Wholesale 0376,Textiles,Indonesia,Surabaya,4,4.14,88.96,3.8,94.81
+SUP0377,Future Exports 0377,Electronics,Malaysia,Penang,2,1.72,86.64,3.3,8.33
+SUP0378,Modern Logistics 0378,Chemicals,Thailand,Bangkok,12,0.61,86.42,3.9,64.23
+SUP0379,Rapid Partners 0379,Textiles,Indonesia,Jakarta,8,1.01,93.9,3.3,22.94
+SUP0380,Modern Supplies 0380,Electronics,Singapore,Singapore,29,0.64,89.72,4.6,45.55
+SUP0381,Reliable Corporation 0381,Logistics,China,Shenzhen,3,4.63,89.52,4.7,55.94
+SUP0382,Elite Industries 0382,Electronics,China,Beijing,17,3.49,92.14,3.9,9.06
+SUP0383,Prime Supplies 0383,Food & Grocery,USA,New York,16,4.84,99.28,3.5,41.56
+SUP0384,Advanced Corporation 0384,Textiles,Vietnam,Hanoi,25,2.43,97.3,4.1,17.18
+SUP0385,Prime Exports 0385,Electronics,Japan,Tokyo,20,3.23,95.42,5,77.7
+SUP0386,Dynamic Exports 0386,Chemicals,Bangladesh,Chittagong,22,2.6,93.41,4.3,82.55
+SUP0387,United Trading 0387,Logistics,Mexico,Monterrey,10,3.91,89.38,3.6,13.8
+SUP0388,National Logistics 0388,Packaging,Singapore,Singapore,20,2.43,91.32,3.9,63.25
+SUP0389,Elite Wholesale 0389,Textiles,South Korea,Busan,7,3.65,86.15,3.4,14.53
+SUP0390,Elite Supplies 0390,Electronics,USA,Los Angeles,16,2.02,88.06,4.7,30.94
+SUP0391,Premium Supplies 0391,Textiles,Malaysia,Penang,26,0.65,90.52,3.3,5.3
+SUP0392,National Distributors 0392,Packaging,South Korea,Busan,10,2.35,98.46,3.9,26.42
+SUP0393,Rapid Distributors 0393,Textiles,USA,Chicago,6,2.46,98.23,4.8,70.77
+SUP0394,Elite Industries 0394,Electronics,Indonesia,Surabaya,4,2.3,97.14,4.6,53.65
+SUP0395,United Distributors 0395,Textiles,Singapore,Singapore,6,1.91,86.46,4,68.71
+SUP0396,United Distributors 0396,Chemicals,Mexico,Mexico City,6,2.43,97.54,3.4,62.45
+SUP0397,Rapid Distributors 0397,Food & Grocery,Malaysia,Penang,6,4.75,90.73,3.9,36.4
+SUP0398,Reliable Partners 0398,Raw Materials,Malaysia,Kuala Lumpur,16,4.63,94.93,4.1,14.68
+SUP0399,Smart Trading 0399,Raw Materials,South Korea,Seoul,28,0.92,95.71,3.5,48.81
+SUP0400,Modern Solutions 0400,Chemicals,Malaysia,Kuala Lumpur,12,1.2,88.17,4.4,8.61
+SUP0401,Future Trading 0401,Electronics,India,Pune,3,4.99,97.19,4.4,88.63
+SUP0402,Elite Partners 0402,Chemicals,Germany,Munich,3,4.19,89.7,4.7,50.53
+SUP0403,Modern Wholesale 0403,Logistics,Thailand,Chiang Mai,18,4.87,97.8,3.9,50.15
+SUP0404,Advanced Solutions 0404,Food & Grocery,Bangladesh,Dhaka,13,1.44,85.98,4.7,69.88
+SUP0405,Strategic Corporation 0405,Chemicals,Vietnam,Hanoi,23,4.63,89.55,4.2,91.95
+SUP0406,Elite Solutions 0406,Textiles,China,Shenzhen,4,4.02,89.37,3.3,87.47
+SUP0407,Future Distributors 0407,Food & Grocery,Mexico,Mexico City,14,4.27,87.85,3.3,67.46
+SUP0408,Dynamic Supplies 0408,Food & Grocery,Indonesia,Surabaya,23,2.82,95.47,4.1,22.53
+SUP0409,Advanced Logistics 0409,Food & Grocery,Japan,Osaka,27,4.65,90.82,4.7,62.38
+SUP0410,Advanced Logistics 0410,Packaging,USA,Chicago,20,3.72,88.55,3,24.34
+SUP0411,Modern Distributors 0411,Chemicals,Japan,Tokyo,12,3.06,97.24,4,31.41
+SUP0412,Elite Distributors 0412,Food & Grocery,China,Shenzhen,29,4.56,95.69,4.3,92.66
+SUP0413,Strategic Solutions 0413,Packaging,Vietnam,Ho Chi Minh City,7,2.92,85.05,4.5,21.2
+SUP0414,Smart Distributors 0414,Raw Materials,Vietnam,Da Nang,22,3.49,89.25,4.3,88.51
+SUP0415,National Partners 0415,Raw Materials,South Korea,Busan,19,3.54,93.07,3.9,62.33
+SUP0416,NextGen Trading 0416,Textiles,USA,Chicago,26,2.98,98.97,3,67.41
+SUP0417,United Trading 0417,Logistics,Singapore,Singapore,11,1.5,94.96,3.7,57
+SUP0418,NextGen Wholesale 0418,Packaging,Malaysia,Kuala Lumpur,20,4.04,94.55,3.4,26.22
+SUP0419,Prime Industries 0419,Textiles,USA,Chicago,12,1.64,94.78,4,53.92
+SUP0420,Modern Logistics 0420,Logistics,India,Mumbai,8,1.02,93.31,4.2,28.25
+SUP0421,Dynamic Trading 0421,Electronics,Indonesia,Jakarta,10,0.95,86.1,3.1,35.64
+SUP0422,Dynamic Wholesale 0422,Raw Materials,Bangladesh,Chittagong,24,0.65,94.53,5,56.37
+SUP0423,Advanced Corporation 0423,Chemicals,Singapore,Singapore,5,2.68,92.17,3.5,74.37
+SUP0424,Global Trading 0424,Chemicals,Bangladesh,Dhaka,13,0.91,93.01,3.2,78.64
+SUP0425,National Supplies 0425,Food & Grocery,Singapore,Singapore,12,1.78,85.29,3.4,13.26
+SUP0426,Strategic Solutions 0426,Chemicals,Thailand,Chiang Mai,20,1.58,96.86,3.5,94.25
+SUP0427,Advanced Partners 0427,Raw Materials,Germany,Berlin,22,1.58,96.03,3.8,57.87
+SUP0428,Elite Supplies 0428,Logistics,Germany,Hamburg,15,2.98,96.6,3.3,27.44
+SUP0429,NextGen Solutions 0429,Textiles,Bangladesh,Dhaka,14,3.74,93.99,4.9,15.68
+SUP0430,Modern Trading 0430,Logistics,USA,New York,26,3.6,88.33,4.9,32.4
+SUP0431,Premium Distributors 0431,Logistics,Japan,Tokyo,22,4.27,94.01,3.8,51.8
+SUP0432,Premium Trading 0432,Electronics,USA,New York,15,4.24,97.99,4.1,75.91
+SUP0433,Advanced Wholesale 0433,Logistics,USA,Dallas,11,3.11,91.15,3.8,8.53
+SUP0434,Reliable Supplies 0434,Packaging,Germany,Munich,28,1.09,94.94,4.3,62.46
+SUP0435,NextGen Trading 0435,Raw Materials,Singapore,Singapore,8,3.08,96.3,4.1,39.54
+SUP0436,Smart Corporation 0436,Chemicals,Vietnam,Da Nang,27,4.68,90.09,4.1,45.58
+SUP0437,Global Trading 0437,Logistics,Thailand,Chiang Mai,28,1.67,85.54,3.3,20.11
+SUP0438,Global Corporation 0438,Packaging,Mexico,Mexico City,8,3.7,91.98,3.9,12.46
+SUP0439,Smart Logistics 0439,Food & Grocery,Indonesia,Jakarta,21,2.41,90.38,4.3,81.83
+SUP0440,Premium Wholesale 0440,Raw Materials,Germany,Hamburg,16,0.5,92.41,3.3,34.12
+SUP0441,Dynamic Trading 0441,Raw Materials,Bangladesh,Chittagong,26,1.14,98.25,3.7,43.07
+SUP0442,National Wholesale 0442,Electronics,Germany,Hamburg,17,4.82,97.96,3.4,78.92
+SUP0443,Elite Logistics 0443,Textiles,Bangladesh,Chittagong,20,2.81,94.24,3.6,35.28
+SUP0444,National Logistics 0444,Packaging,China,Guangzhou,26,2.02,96.12,4,45.77
+SUP0445,Advanced Exports 0445,Raw Materials,USA,Los Angeles,9,2.96,98.96,3.4,9.87
+SUP0446,Premium Wholesale 0446,Food & Grocery,Indonesia,Surabaya,26,0.7,86.93,3.3,27.69
+SUP0447,National Corporation 0447,Raw Materials,Germany,Munich,17,2.44,87.26,3.4,66.76
+SUP0448,United Wholesale 0448,Electronics,South Korea,Seoul,24,3.37,85.3,4.7,78.56
+SUP0449,Smart Wholesale 0449,Packaging,Mexico,Monterrey,6,0.7,93.2,4.1,61.04
+SUP0450,Premium Exports 0450,Logistics,USA,Los Angeles,16,0.89,94.42,4.8,8.66
+SUP0451,United Supplies 0451,Food & Grocery,Thailand,Bangkok,12,3.23,94.89,4.7,78.25
+SUP0452,NextGen Industries 0452,Food & Grocery,Japan,Nagoya,22,4.77,96.92,3.4,79.33
+SUP0453,Advanced Distributors 0453,Packaging,Bangladesh,Chittagong,14,4.52,98.54,3.2,70.88
+SUP0454,Rapid Industries 0454,Packaging,Japan,Tokyo,23,1.4,92.06,4.2,36.2
+SUP0455,Elite Partners 0455,Raw Materials,Bangladesh,Dhaka,30,2.08,98.45,4.1,78.92
+SUP0456,Rapid Logistics 0456,Raw Materials,Singapore,Singapore,19,2.36,92.52,4.6,78.57
+SUP0457,Modern Supplies 0457,Food & Grocery,Mexico,Mexico City,2,4.42,88.67,3.1,31.75
+SUP0458,Future Solutions 0458,Electronics,Singapore,Singapore,14,2.41,95.94,3.9,45.15
+SUP0459,Premium Supplies 0459,Electronics,China,Beijing,16,2.27,91.26,3.2,5.34
+SUP0460,National Distributors 0460,Electronics,Germany,Berlin,5,1.32,88.39,3.8,94.02
+SUP0461,Premium Solutions 0461,Chemicals,South Korea,Seoul,25,4.51,93.37,3.1,26.31
+SUP0462,Dynamic Logistics 0462,Food & Grocery,India,Hyderabad,16,4.91,91.68,4.4,24.42
+SUP0463,National Corporation 0463,Chemicals,Vietnam,Hanoi,9,1.19,86.49,3.4,93.03
+SUP0464,Modern Industries 0464,Electronics,USA,New York,15,4.5,85.52,4.6,21.91
+SUP0465,Strategic Distributors 0465,Food & Grocery,Thailand,Chiang Mai,7,1.1,85.65,4.1,85.52
+SUP0466,Global Industries 0466,Electronics,Mexico,Mexico City,18,2.43,85.68,4.9,77.84
+SUP0467,Dynamic Solutions 0467,Textiles,Japan,Nagoya,29,3.69,92.45,4.3,18.83
+SUP0468,Elite Distributors 0468,Packaging,Thailand,Bangkok,27,4.8,92.15,3.2,60.93
+SUP0469,Prime Exports 0469,Packaging,Singapore,Singapore,8,1.83,92.91,4,25.48
+SUP0470,Smart Exports 0470,Textiles,India,Hyderabad,18,1.65,88.36,3.7,76.36
+SUP0471,United Trading 0471,Raw Materials,Malaysia,Kuala Lumpur,6,1.54,88.29,3.4,19.4
+SUP0472,Dynamic Partners 0472,Logistics,Mexico,Mexico City,8,4.91,98.86,4,17.51
+SUP0473,Rapid Distributors 0473,Food & Grocery,Indonesia,Surabaya,30,2.5,96.09,3.5,26.55
+SUP0474,Strategic Supplies 0474,Chemicals,India,Ahmedabad,28,2.44,95.39,3.6,47.31
+SUP0475,Modern Wholesale 0475,Electronics,Thailand,Bangkok,19,2.35,95.03,3.5,23.67
+SUP0476,Dynamic Distributors 0476,Electronics,South Korea,Seoul,11,4.28,95.48,4.8,41.67
+SUP0477,Elite Corporation 0477,Chemicals,Indonesia,Surabaya,30,4.57,99,3.8,20.85
+SUP0478,Modern Solutions 0478,Food & Grocery,Thailand,Chiang Mai,17,4.93,93.84,3.3,14.95
+SUP0479,Premium Corporation 0479,Chemicals,Thailand,Bangkok,15,4.65,96.73,3.7,80.81
+SUP0480,Elite Solutions 0480,Chemicals,Thailand,Chiang Mai,6,2.98,93.41,4.5,56.62
+SUP0481,Premium Logistics 0481,Chemicals,Vietnam,Hanoi,30,2.01,88.51,4,13.46
+SUP0482,Strategic Corporation 0482,Raw Materials,South Korea,Seoul,6,1.31,95.91,3.9,21.4
+SUP0483,Elite Distributors 0483,Textiles,South Korea,Seoul,15,3.16,89.71,3.6,46.38
+SUP0484,Dynamic Solutions 0484,Chemicals,Vietnam,Ho Chi Minh City,15,3.42,89.42,4.6,35.27
+SUP0485,Future Corporation 0485,Chemicals,Thailand,Bangkok,14,0.53,89.36,3.7,41.3
+SUP0486,Premium Trading 0486,Packaging,USA,Los Angeles,12,4.2,85.26,4.7,40.98
+SUP0487,Smart Trading 0487,Electronics,Bangladesh,Chittagong,30,1.49,98.31,3.2,70.28
+SUP0488,Elite Exports 0488,Packaging,Singapore,Singapore,15,0.85,95.99,3.2,83.62
+SUP0489,National Partners 0489,Packaging,South Korea,Seoul,8,4.71,96.56,3.8,35.47
+SUP0490,United Exports 0490,Logistics,Singapore,Singapore,12,4.5,92.33,3.5,9.14
+SUP0491,NextGen Corporation 0491,Food & Grocery,Bangladesh,Dhaka,2,4.33,87.44,4.8,74.32
+SUP0492,United Wholesale 0492,Packaging,India,Bangalore,13,2.99,91.82,3.4,21.02
+SUP0493,Smart Industries 0493,Electronics,Indonesia,Jakarta,3,4.01,92.11,4,43.94
+SUP0494,National Exports 0494,Raw Materials,Malaysia,Kuala Lumpur,12,1.03,93.87,4.2,66.63
+SUP0495,Elite Distributors 0495,Packaging,Indonesia,Jakarta,28,0.96,88.53,3.9,23.98
+SUP0496,Premium Wholesale 0496,Logistics,Bangladesh,Dhaka,6,3.84,92.44,3.8,49.85
+SUP0497,Modern Distributors 0497,Chemicals,Bangladesh,Dhaka,15,1.25,95.16,3.3,67.01
+SUP0498,Global Supplies 0498,Raw Materials,China,Guangzhou,26,1.59,87.36,3.5,11.92
+SUP0499,Reliable Solutions 0499,Packaging,India,Delhi,27,4.35,90.15,3.6,65.48
+SUP0500,United Distributors 0500,Logistics,Vietnam,Da Nang,3,2.78,97.75,5,85.77
+SUP0501,Modern Wholesale 0501,Textiles,Indonesia,Surabaya,22,3.8,97.59,4.6,65.63
+SUP0502,Smart Partners 0502,Packaging,Thailand,Bangkok,2,4.68,85.98,4.8,72.52
+SUP0503,Premium Corporation 0503,Chemicals,Japan,Osaka,22,3.78,96.85,4.6,77.42
+SUP0504,Premium Exports 0504,Logistics,Japan,Tokyo,25,4.1,98.35,4.8,39.66
+SUP0505,National Corporation 0505,Packaging,Vietnam,Ho Chi Minh City,3,3.51,99.26,4.3,27.07
+SUP0506,NextGen Corporation 0506,Raw Materials,Bangladesh,Chittagong,22,2.8,91,4.7,71.06
+SUP0507,United Corporation 0507,Textiles,Indonesia,Jakarta,19,1.51,88.73,3,34.44
+SUP0508,Reliable Distributors 0508,Electronics,Malaysia,Penang,13,1.31,97.94,4.3,64.72
+SUP0509,Smart Trading 0509,Food & Grocery,Indonesia,Jakarta,28,1.09,95.83,3.4,93.12
+SUP0510,NextGen Industries 0510,Electronics,Malaysia,Kuala Lumpur,26,2.53,90.43,4.3,48.8
+SUP0511,United Distributors 0511,Logistics,India,Ahmedabad,15,2.21,95.17,4,33.41
+SUP0512,Dynamic Supplies 0512,Chemicals,Bangladesh,Chittagong,8,2.63,85.98,4.4,50.44
+SUP0513,Advanced Partners 0513,Electronics,Indonesia,Surabaya,12,4.9,96.46,3.3,17.95
+SUP0514,Rapid Industries 0514,Logistics,Bangladesh,Dhaka,29,2.76,96.04,3.2,50.91
+SUP0515,Dynamic Corporation 0515,Raw Materials,India,Pune,10,2.7,99.39,3.9,51.27
+SUP0516,NextGen Exports 0516,Logistics,South Korea,Busan,2,1.67,91.61,3.5,14.09
+SUP0517,Dynamic Corporation 0517,Raw Materials,Thailand,Chiang Mai,14,3.09,91.58,3.6,5.01
+SUP0518,Advanced Trading 0518,Logistics,Thailand,Chiang Mai,27,0.6,90.37,3.2,16.06
+SUP0519,Global Solutions 0519,Chemicals,USA,Los Angeles,25,2.57,97.64,4.3,67.56
+SUP0520,Reliable Supplies 0520,Chemicals,Indonesia,Surabaya,18,0.82,94.97,3.8,41.11
+SUP0521,Advanced Industries 0521,Raw Materials,Singapore,Singapore,17,4.26,98.09,3.6,54.27
+SUP0522,National Exports 0522,Food & Grocery,Japan,Nagoya,12,4.98,92.8,4.9,78.42
+SUP0523,Modern Supplies 0523,Chemicals,South Korea,Seoul,18,4.61,91.41,4.7,55.28
+SUP0524,Modern Supplies 0524,Chemicals,Singapore,Singapore,21,1.42,88.54,3.3,63.27
+SUP0525,Elite Industries 0525,Raw Materials,Vietnam,Ho Chi Minh City,11,4.25,88.91,4.6,92.38
+SUP0526,Premium Distributors 0526,Electronics,India,Mumbai,29,1.83,96.84,4.9,53.26
+SUP0527,Modern Wholesale 0527,Logistics,Thailand,Bangkok,12,4.34,92.53,3.6,24.54
+SUP0528,United Solutions 0528,Textiles,Mexico,Monterrey,3,2.33,98.35,4,80.15
+SUP0529,Modern Trading 0529,Packaging,China,Shenzhen,4,2.24,92.48,3.9,36.54
+SUP0530,Premium Corporation 0530,Electronics,Bangladesh,Dhaka,23,2.56,96.75,4.9,35.71
+SUP0531,Prime Distributors 0531,Raw Materials,China,Guangzhou,21,2.96,96.02,3.7,58.23
+SUP0532,Rapid Distributors 0532,Electronics,Germany,Berlin,4,1.01,91.95,4.6,31.88
+SUP0533,Global Supplies 0533,Textiles,China,Guangzhou,17,4.7,95.04,3.4,87.05
+SUP0534,Elite Trading 0534,Packaging,USA,Los Angeles,29,3.24,90.95,4.8,40.34
+SUP0535,United Wholesale 0535,Food & Grocery,Bangladesh,Dhaka,5,3.67,97.66,3.7,14.99
+SUP0536,Smart Solutions 0536,Raw Materials,Vietnam,Da Nang,22,4.71,86.7,3.9,13.51
+SUP0537,National Corporation 0537,Packaging,Germany,Munich,2,2.88,94.14,4.9,16.9
+SUP0538,Reliable Trading 0538,Chemicals,China,Shenzhen,11,3.37,87.61,3,89.47
+SUP0539,Elite Corporation 0539,Packaging,Singapore,Singapore,12,1.65,85.77,4.7,27.54
+SUP0540,Premium Exports 0540,Electronics,Indonesia,Jakarta,28,3.48,95.63,4,37.75
+SUP0541,National Supplies 0541,Raw Materials,Germany,Munich,23,2.2,98.4,4.4,60.08
+SUP0542,Reliable Distributors 0542,Chemicals,Japan,Nagoya,3,0.74,95.15,4.3,28.47
+SUP0543,Dynamic Supplies 0543,Electronics,Japan,Tokyo,8,2.13,95.1,3.2,30.48
+SUP0544,United Wholesale 0544,Textiles,Thailand,Chiang Mai,16,2.32,89.56,3.6,70.04
+SUP0545,Dynamic Wholesale 0545,Logistics,Thailand,Chiang Mai,5,4.62,85.04,4.4,54.12
+SUP0546,Reliable Corporation 0546,Chemicals,Singapore,Singapore,17,2.57,92.82,4.6,15.91
+SUP0547,NextGen Partners 0547,Food & Grocery,Germany,Hamburg,30,3.19,97.18,4.4,46.54
+SUP0548,Strategic Trading 0548,Logistics,USA,Chicago,27,1.05,90.15,4.1,74.34
+SUP0549,United Logistics 0549,Electronics,Mexico,Mexico City,3,2.73,87.89,4.7,56.99
+SUP0550,Prime Solutions 0550,Electronics,Indonesia,Jakarta,27,0.78,96.43,4.5,37.88
+SUP0551,Reliable Distributors 0551,Packaging,Bangladesh,Chittagong,5,1.5,96.55,4.8,82.22
+SUP0552,National Corporation 0552,Textiles,Singapore,Singapore,19,1.16,97.4,4.6,60.04
+SUP0553,National Trading 0553,Chemicals,USA,New York,15,0.73,95.93,3,48.2
+SUP0554,National Logistics 0554,Packaging,China,Shenzhen,16,4.64,92.39,3.1,14.55
+SUP0555,United Distributors 0555,Electronics,Malaysia,Penang,3,3.47,90.85,4.3,69
+SUP0556,Reliable Partners 0556,Textiles,Malaysia,Kuala Lumpur,28,4.31,94.83,4.4,33.41
+SUP0557,United Wholesale 0557,Electronics,Mexico,Monterrey,7,1.95,95.38,4.4,16.78
+SUP0558,Reliable Partners 0558,Food & Grocery,USA,Los Angeles,28,3.93,85.97,3.6,14
+SUP0559,Premium Partners 0559,Food & Grocery,China,Shanghai,27,0.52,93.1,4.2,56.11
+SUP0560,Prime Distributors 0560,Textiles,China,Shenzhen,24,0.51,89.13,4.1,52.73
+SUP0561,United Corporation 0561,Electronics,USA,Los Angeles,30,2.26,93.09,4.1,89.52
+SUP0562,Prime Partners 0562,Logistics,Indonesia,Jakarta,3,4.02,88.99,3.2,88.41
+SUP0563,National Exports 0563,Packaging,Japan,Tokyo,20,3.89,88.81,4.8,87.71
+SUP0564,Reliable Distributors 0564,Electronics,Singapore,Singapore,14,1.92,99.43,3.4,31.83
+SUP0565,Premium Corporation 0565,Logistics,Mexico,Monterrey,29,3.95,94.49,3.6,65.09
+SUP0566,Elite Distributors 0566,Logistics,Japan,Tokyo,18,3.64,97.35,4.8,14.83
+SUP0567,Dynamic Wholesale 0567,Raw Materials,Mexico,Mexico City,22,1.31,90.88,3.9,78.38
+SUP0568,Global Partners 0568,Textiles,Thailand,Chiang Mai,7,3.51,92.01,3.7,71.21
+SUP0569,Dynamic Partners 0569,Food & Grocery,Mexico,Mexico City,29,1.78,90.66,4.4,92.81
+SUP0570,National Solutions 0570,Packaging,Mexico,Mexico City,16,3,97.88,5,55.29
+SUP0571,NextGen Industries 0571,Electronics,Mexico,Mexico City,18,2.11,91.35,4.2,16.26
+SUP0572,Premium Exports 0572,Packaging,Germany,Hamburg,21,2.34,85.41,3.2,14.55
+SUP0573,Dynamic Solutions 0573,Raw Materials,Mexico,Monterrey,16,2.42,94.26,4.9,32.55
+SUP0574,Future Supplies 0574,Chemicals,Germany,Munich,17,3.61,88.46,4,77.27
+SUP0575,Rapid Exports 0575,Textiles,Thailand,Chiang Mai,22,1.93,89.57,3.1,8.84
+SUP0576,Elite Supplies 0576,Food & Grocery,Mexico,Monterrey,16,4.75,94.67,4.3,24.4
+SUP0577,United Corporation 0577,Raw Materials,Mexico,Monterrey,22,2.15,89.72,4.5,60.55
+SUP0578,Advanced Industries 0578,Chemicals,Thailand,Chiang Mai,19,0.54,95.32,3.8,40.22
+SUP0579,National Industries 0579,Textiles,India,Mumbai,12,3.92,91.9,4.9,48.03
+SUP0580,National Industries 0580,Food & Grocery,India,Bangalore,12,3.94,88.15,3.7,89.46
+SUP0581,Advanced Corporation 0581,Food & Grocery,China,Shenzhen,27,2,99.04,4.8,41.05
+SUP0582,Elite Distributors 0582,Food & Grocery,Vietnam,Hanoi,8,0.54,94.42,3,58.11
+SUP0583,United Wholesale 0583,Raw Materials,Vietnam,Hanoi,2,2.9,93.92,4.2,79.06
+SUP0584,Smart Wholesale 0584,Electronics,Malaysia,Kuala Lumpur,12,1.09,93.48,3,27.5
+SUP0585,United Solutions 0585,Packaging,Singapore,Singapore,9,1.26,90.26,4.8,9.06
+SUP0586,NextGen Wholesale 0586,Electronics,Thailand,Bangkok,23,4.24,96.12,4.1,79.93
+SUP0587,NextGen Distributors 0587,Food & Grocery,Germany,Berlin,17,4.97,97.09,3.2,81.32
+SUP0588,National Logistics 0588,Electronics,China,Shenzhen,26,4.8,85.07,4.2,38.6
+SUP0589,Future Partners 0589,Packaging,Malaysia,Penang,2,3.44,87.97,3.5,27.37
+SUP0590,Strategic Logistics 0590,Logistics,Vietnam,Da Nang,25,0.66,88.73,3.6,94.95
+SUP0591,Dynamic Distributors 0591,Textiles,Singapore,Singapore,19,0.58,95.3,3.6,52.03
+SUP0592,NextGen Logistics 0592,Electronics,Japan,Nagoya,20,0.54,97.63,4.5,65.97
+SUP0593,Strategic Industries 0593,Packaging,South Korea,Busan,21,3.29,91.45,4,67.64
+SUP0594,Premium Partners 0594,Chemicals,Indonesia,Jakarta,25,2.71,94.93,4.9,46.08
+SUP0595,National Exports 0595,Chemicals,China,Shenzhen,28,1.74,99.26,3.8,69.6
+SUP0596,Dynamic Exports 0596,Chemicals,Mexico,Mexico City,3,1.58,87.37,3.3,71.41
+SUP0597,National Trading 0597,Packaging,Malaysia,Penang,11,4.39,87.38,3.5,25.99
+SUP0598,Modern Logistics 0598,Electronics,USA,New York,27,4.89,96.91,4.2,56.34
+SUP0599,Global Wholesale 0599,Textiles,Vietnam,Hanoi,21,4.4,90.98,3.4,90.93
+SUP0600,Rapid Distributors 0600,Logistics,Vietnam,Hanoi,20,3.92,97.72,3.9,69.7
+SUP0601,Reliable Supplies 0601,Food & Grocery,Thailand,Bangkok,9,4.99,97.48,5,20.54
+SUP0602,Dynamic Distributors 0602,Raw Materials,Malaysia,Kuala Lumpur,23,3.62,99.38,4,49.15
+SUP0603,Rapid Exports 0603,Textiles,China,Guangzhou,16,2.15,92.88,3.3,45.99
+SUP0604,Future Distributors 0604,Textiles,India,Ahmedabad,2,3.4,96.46,4.9,58.32
+SUP0605,Premium Wholesale 0605,Electronics,USA,Los Angeles,30,2.8,88.81,3.5,38.05
+SUP0606,Rapid Logistics 0606,Electronics,Mexico,Mexico City,10,4.34,89.49,3.6,16.82
+SUP0607,Premium Logistics 0607,Chemicals,Malaysia,Penang,22,1.64,89,4.6,7.3
+SUP0608,Modern Logistics 0608,Textiles,China,Guangzhou,30,4.11,98.57,3.2,56.9
+SUP0609,Prime Industries 0609,Packaging,Mexico,Monterrey,17,4.35,89.41,5,15.39
+SUP0610,United Wholesale 0610,Packaging,USA,Chicago,25,1.12,90.58,4.4,55.29
+SUP0611,Premium Exports 0611,Food & Grocery,Indonesia,Jakarta,21,1.24,97.9,4.4,16.8
+SUP0612,Elite Distributors 0612,Textiles,Vietnam,Hanoi,5,1.1,88.61,4.3,72.4
+SUP0613,Strategic Trading 0613,Textiles,Indonesia,Jakarta,26,2.92,87.01,3.5,35
+SUP0614,National Corporation 0614,Textiles,Singapore,Singapore,3,3.76,85.72,3.9,94.43
+SUP0615,Future Corporation 0615,Electronics,Bangladesh,Dhaka,16,0.99,95.77,3.2,61.76
+SUP0616,Reliable Logistics 0616,Packaging,Malaysia,Kuala Lumpur,9,3.29,95.14,3.6,54.77
+SUP0617,Prime Exports 0617,Packaging,Japan,Osaka,11,3.33,90.75,3,73.38
+SUP0618,Modern Logistics 0618,Food & Grocery,Vietnam,Da Nang,3,3.93,85.02,5,91.2
+SUP0619,NextGen Distributors 0619,Logistics,Germany,Munich,20,4.4,95.5,4.7,80.96
+SUP0620,United Trading 0620,Chemicals,Japan,Osaka,7,2.62,96.45,4.9,21.26
+SUP0621,National Corporation 0621,Logistics,India,Bangalore,13,4.19,92.16,4.4,92.57
+SUP0622,Advanced Logistics 0622,Logistics,India,Mumbai,11,4.8,89.4,4.3,17.92
+SUP0623,Global Solutions 0623,Electronics,Indonesia,Surabaya,4,3.66,93.11,3.2,78.65
+SUP0624,Advanced Wholesale 0624,Textiles,Vietnam,Da Nang,13,1.97,91.82,3.9,88.71
+SUP0625,Reliable Distributors 0625,Food & Grocery,Bangladesh,Dhaka,16,1.85,91.91,4.5,31.01
+SUP0626,National Distributors 0626,Electronics,Vietnam,Da Nang,5,4.32,97.17,4.7,5.52
+SUP0627,Premium Supplies 0627,Packaging,Malaysia,Penang,3,4.38,86.4,4.4,63.04
+SUP0628,Elite Logistics 0628,Raw Materials,Singapore,Singapore,25,3.9,98,3.3,17.52
+SUP0629,Future Distributors 0629,Chemicals,South Korea,Busan,16,2.82,87.75,3.8,13.08
+SUP0630,Smart Logistics 0630,Logistics,South Korea,Seoul,28,2.88,90.82,3.6,5.77
+SUP0631,Rapid Wholesale 0631,Logistics,Indonesia,Surabaya,3,4.28,86.16,3.9,74.48
+SUP0632,Future Partners 0632,Electronics,Bangladesh,Chittagong,8,4.39,98.08,4.8,72.94
+SUP0633,Prime Partners 0633,Food & Grocery,South Korea,Busan,7,2.35,98.8,4.6,48.35
+SUP0634,Reliable Corporation 0634,Raw Materials,Indonesia,Jakarta,8,0.83,87.28,3.7,41.18
+SUP0635,Advanced Solutions 0635,Food & Grocery,USA,Chicago,27,4.47,89.2,3.3,56.02
+SUP0636,Future Industries 0636,Electronics,Vietnam,Da Nang,28,2.44,95.48,3.3,6.88
+SUP0637,Strategic Logistics 0637,Raw Materials,USA,Los Angeles,17,2.63,99.36,4.9,94.34
+SUP0638,NextGen Solutions 0638,Logistics,Mexico,Mexico City,19,4.56,91.35,3.5,76.89
+SUP0639,United Solutions 0639,Chemicals,South Korea,Busan,30,3.39,98.36,4.7,12.94
+SUP0640,NextGen Solutions 0640,Textiles,Vietnam,Ho Chi Minh City,7,3.04,90.62,4.8,59.64
+SUP0641,National Partners 0641,Logistics,Mexico,Monterrey,16,1.31,91.58,3.1,28.39
+SUP0642,NextGen Solutions 0642,Textiles,India,Delhi,13,2.44,93.99,3.1,5.24
+SUP0643,Elite Supplies 0643,Textiles,Japan,Nagoya,5,0.63,91.08,4.6,47.11
+SUP0644,Dynamic Partners 0644,Raw Materials,Vietnam,Da Nang,9,2.2,96.29,4.8,24.46
+SUP0645,Rapid Industries 0645,Chemicals,Germany,Berlin,25,3.79,99.08,3.4,61.33
+SUP0646,Premium Partners 0646,Logistics,South Korea,Busan,9,4.8,87.57,4.2,47.6
+SUP0647,Reliable Industries 0647,Electronics,USA,New York,21,3.25,93.01,4.4,62.67
+SUP0648,Smart Exports 0648,Raw Materials,Vietnam,Ho Chi Minh City,16,0.53,92.41,4.5,72.52
+SUP0649,NextGen Distributors 0649,Logistics,Singapore,Singapore,7,0.66,96.62,4,78.45
+SUP0650,Smart Partners 0650,Packaging,Mexico,Mexico City,29,4.9,96.98,4.1,32.87
+SUP0651,Strategic Supplies 0651,Food & Grocery,Vietnam,Hanoi,14,1.64,87.4,4.1,5.98
+SUP0652,Dynamic Partners 0652,Food & Grocery,Germany,Hamburg,11,1.7,89.24,4.9,20.38
+SUP0653,United Industries 0653,Packaging,Indonesia,Surabaya,30,4.13,90.02,3.9,10.48
+SUP0654,Dynamic Corporation 0654,Textiles,Thailand,Chiang Mai,13,3.96,85.37,4.7,81.38
+SUP0655,Elite Industries 0655,Logistics,South Korea,Seoul,5,0.89,86.23,3.8,54.93
+SUP0656,Rapid Distributors 0656,Raw Materials,Vietnam,Hanoi,18,3.08,98.21,3.5,38.42
+SUP0657,Premium Trading 0657,Electronics,Germany,Berlin,16,3.35,85.71,3.2,64.54
+SUP0658,Advanced Industries 0658,Raw Materials,Vietnam,Da Nang,28,2.58,90.63,3,49.71
+SUP0659,United Corporation 0659,Raw Materials,Singapore,Singapore,29,2.14,96.76,4.9,81.08
+SUP0660,Prime Industries 0660,Packaging,Malaysia,Penang,17,1.1,87.24,4.1,7.05
+SUP0661,Elite Exports 0661,Electronics,Vietnam,Hanoi,11,1.9,98.22,4.7,76.15
+SUP0662,Dynamic Corporation 0662,Electronics,Thailand,Chiang Mai,24,2.53,85.59,3.5,42.55
+SUP0663,NextGen Partners 0663,Logistics,Vietnam,Ho Chi Minh City,11,4.53,89.77,4,75.08
+SUP0664,Prime Supplies 0664,Logistics,Vietnam,Da Nang,28,4.9,92.38,4.8,28.13
+SUP0665,Premium Logistics 0665,Food & Grocery,Malaysia,Kuala Lumpur,9,3.26,91.75,4.3,22.12
+SUP0666,Smart Distributors 0666,Textiles,Germany,Hamburg,25,1.66,90.93,3.5,35.5
+SUP0667,Strategic Distributors 0667,Food & Grocery,Singapore,Singapore,3,1.31,90.85,4.9,41.26
+SUP0668,Elite Solutions 0668,Logistics,Singapore,Singapore,3,3.75,93.35,4,16.84
+SUP0669,Future Industries 0669,Raw Materials,Indonesia,Surabaya,30,4.04,98.35,4.5,79.86
+SUP0670,Modern Industries 0670,Electronics,India,Mumbai,26,3.24,97.22,4.5,62.72
+SUP0671,Strategic Trading 0671,Textiles,Indonesia,Surabaya,25,3.52,94.1,4.7,74.43
+SUP0672,Smart Exports 0672,Chemicals,Vietnam,Ho Chi Minh City,15,2.55,87.94,3.5,81.72
+SUP0673,NextGen Logistics 0673,Logistics,Germany,Munich,21,3.7,99.49,3.7,54.91
+SUP0674,Future Solutions 0674,Logistics,Indonesia,Surabaya,23,3.6,90.65,4.2,15.56
+SUP0675,Advanced Solutions 0675,Textiles,Germany,Berlin,15,3.79,97.68,3.6,24.36
+SUP0676,Dynamic Distributors 0676,Packaging,Japan,Tokyo,29,2.81,90.48,3.3,22.79
+SUP0677,Dynamic Corporation 0677,Chemicals,Mexico,Monterrey,23,1.19,98.53,3.1,55.33
+SUP0678,Reliable Distributors 0678,Chemicals,Malaysia,Penang,5,4.31,92.83,3.8,50.71
+SUP0679,Prime Exports 0679,Logistics,Germany,Berlin,18,3.5,90.45,4.2,20.24
+SUP0680,Prime Trading 0680,Packaging,Thailand,Bangkok,23,1.86,95.54,3.6,58.35
+SUP0681,NextGen Corporation 0681,Chemicals,Vietnam,Da Nang,5,2.23,96.38,3.5,85.52
+SUP0682,Advanced Partners 0682,Logistics,Indonesia,Jakarta,27,1.8,88.18,4.9,47.66
+SUP0683,Reliable Logistics 0683,Chemicals,Japan,Tokyo,6,1.43,92.31,3.8,40.35
+SUP0684,Smart Trading 0684,Food & Grocery,India,Bangalore,12,3.02,92.34,4.3,57.34
+SUP0685,National Industries 0685,Electronics,Malaysia,Kuala Lumpur,14,1.29,94.9,3,6.58
+SUP0686,Modern Supplies 0686,Raw Materials,India,Bangalore,29,1.84,96.74,4.7,89.2
+SUP0687,Elite Partners 0687,Electronics,South Korea,Seoul,16,2.19,86.58,4.5,83.1
+SUP0688,Dynamic Wholesale 0688,Raw Materials,Japan,Nagoya,25,4.28,98.84,3.6,14.07
+SUP0689,United Distributors 0689,Chemicals,Vietnam,Ho Chi Minh City,23,2.45,86.47,3.3,56.94
+SUP0690,Strategic Distributors 0690,Food & Grocery,India,Delhi,29,1.65,87.59,4.2,69.63
+SUP0691,Elite Supplies 0691,Logistics,China,Shenzhen,20,1.96,85.85,3.3,61.69
+SUP0692,Smart Trading 0692,Textiles,Singapore,Singapore,19,2.29,90.29,4.1,45.8
+SUP0693,Advanced Solutions 0693,Textiles,Germany,Munich,25,0.68,99.18,3.3,29.36
+SUP0694,Global Logistics 0694,Raw Materials,South Korea,Seoul,20,4.46,92.32,4.6,88.28
+SUP0695,Smart Exports 0695,Chemicals,Indonesia,Jakarta,28,3.02,98.88,4.5,82.64
+SUP0696,United Distributors 0696,Raw Materials,Indonesia,Surabaya,22,4.77,92.18,3.3,76.37
+SUP0697,Strategic Industries 0697,Packaging,India,Bangalore,8,4.57,98.3,4.1,49.49
+SUP0698,Global Exports 0698,Textiles,Mexico,Mexico City,2,0.51,89.03,3.9,85.89
+SUP0699,Prime Trading 0699,Raw Materials,Germany,Berlin,3,3.84,90.85,3.9,76.78
+SUP0700,Rapid Supplies 0700,Textiles,Indonesia,Surabaya,6,2.01,88.07,3.6,47.89
+SUP0701,Elite Industries 0701,Textiles,Singapore,Singapore,7,2.88,97.77,3.2,76.29
+SUP0702,Smart Trading 0702,Packaging,USA,Dallas,14,4.76,87.6,3.1,79.74
+SUP0703,Elite Corporation 0703,Raw Materials,Mexico,Monterrey,4,3.04,88.19,3.6,49.98
+SUP0704,Dynamic Exports 0704,Logistics,Germany,Berlin,17,3.08,88.44,3.9,49.86
+SUP0705,National Industries 0705,Packaging,China,Shanghai,19,3.05,90.46,3.5,17.2
+SUP0706,Rapid Exports 0706,Packaging,Bangladesh,Dhaka,5,2.48,85.16,4.3,56.84
+SUP0707,Elite Distributors 0707,Logistics,USA,New York,8,2.06,89.96,4.7,46.49
+SUP0708,Strategic Distributors 0708,Logistics,India,Bangalore,24,4.33,85.26,4.2,87.32
+SUP0709,Modern Industries 0709,Packaging,India,Bangalore,6,2.26,97.43,3.2,68.6
+SUP0710,Elite Corporation 0710,Textiles,China,Shanghai,30,1.52,98.69,4.8,16.27
+SUP0711,Strategic Solutions 0711,Logistics,Thailand,Chiang Mai,30,3.02,95.56,3.4,56.27
+SUP0712,Strategic Trading 0712,Logistics,Bangladesh,Dhaka,4,3.96,89.05,3.5,55.35
+SUP0713,Strategic Exports 0713,Electronics,Mexico,Mexico City,23,3.79,89.03,3,52.16
+SUP0714,Global Distributors 0714,Food & Grocery,India,Bangalore,29,2.18,94.64,3.1,49.33
+SUP0715,Future Supplies 0715,Chemicals,India,Mumbai,29,4.77,98.63,4.2,21.74
+SUP0716,Rapid Partners 0716,Chemicals,Thailand,Bangkok,15,3.2,87.88,3.4,60.55
+SUP0717,Rapid Exports 0717,Chemicals,Indonesia,Jakarta,2,2.01,94.8,3.5,47.3
+SUP0718,Elite Partners 0718,Food & Grocery,Thailand,Chiang Mai,18,0.5,92.35,3.4,40.27
+SUP0719,Future Exports 0719,Packaging,Mexico,Mexico City,6,2.82,95.16,3.2,50.36
+SUP0720,United Solutions 0720,Chemicals,Japan,Osaka,5,4.4,96.38,4,24.91
+SUP0721,Future Distributors 0721,Logistics,Indonesia,Jakarta,4,1.28,95.53,4.4,29.1
+SUP0722,Elite Partners 0722,Logistics,Indonesia,Surabaya,23,0.88,92.66,3.9,27.4
+SUP0723,United Exports 0723,Raw Materials,Singapore,Singapore,20,3.31,96.81,3.9,92.87
+SUP0724,Smart Corporation 0724,Textiles,Germany,Hamburg,15,1.02,94.09,4.3,16.1
+SUP0725,Elite Distributors 0725,Raw Materials,India,Bangalore,20,1.82,93.31,3.3,59.96
+SUP0726,Modern Industries 0726,Textiles,Mexico,Mexico City,14,2.95,92.76,4.8,69.65
+SUP0727,Modern Corporation 0727,Logistics,Germany,Munich,19,1.96,90.5,3.2,50.82
+SUP0728,Global Distributors 0728,Packaging,Mexico,Mexico City,7,3.48,95.17,3.3,60.9
+SUP0729,NextGen Industries 0729,Electronics,Malaysia,Kuala Lumpur,11,1.77,89.65,4,92.39
+SUP0730,United Solutions 0730,Raw Materials,Japan,Nagoya,15,5,98.58,4.4,67.53
+SUP0731,United Corporation 0731,Packaging,Malaysia,Kuala Lumpur,26,3.21,86.99,4.5,29.65
+SUP0732,Premium Industries 0732,Logistics,South Korea,Busan,21,2.64,91.54,4.8,32.22
+SUP0733,Modern Logistics 0733,Chemicals,Mexico,Mexico City,2,3.19,92.62,3.3,47.97
+SUP0734,NextGen Solutions 0734,Food & Grocery,India,Bangalore,20,1.16,96.43,3.4,75.84
+SUP0735,Advanced Trading 0735,Logistics,Japan,Tokyo,2,0.75,88.02,3.5,64.06
+SUP0736,Premium Trading 0736,Textiles,Malaysia,Kuala Lumpur,9,1.66,94.89,3.4,74.24
+SUP0737,Reliable Corporation 0737,Logistics,India,Ahmedabad,24,3.96,96.82,3.1,50.52
+SUP0738,Rapid Trading 0738,Electronics,Singapore,Singapore,10,4.1,87.58,3.8,36.33
+SUP0739,Elite Logistics 0739,Chemicals,Bangladesh,Dhaka,12,3.04,92.47,3.8,29.43
+SUP0740,Reliable Logistics 0740,Electronics,South Korea,Busan,9,2.46,92.66,3,20.28
+SUP0741,Dynamic Supplies 0741,Raw Materials,USA,Los Angeles,24,2.07,88.91,3.5,38.13
+SUP0742,NextGen Solutions 0742,Raw Materials,South Korea,Seoul,6,1.26,97.96,3.7,53.89
+SUP0743,Global Distributors 0743,Textiles,Germany,Hamburg,7,2.73,86.77,4.2,41.06
+SUP0744,Premium Industries 0744,Electronics,Bangladesh,Dhaka,11,1.14,85.53,4,60.11
+SUP0745,Smart Exports 0745,Textiles,Bangladesh,Dhaka,7,4.37,89.51,5,19.23
+SUP0746,Advanced Industries 0746,Packaging,Bangladesh,Dhaka,23,2.63,86.6,5,48.67
+SUP0747,Elite Corporation 0747,Raw Materials,Germany,Berlin,8,2.91,96.55,3.1,47.72
+SUP0748,Modern Logistics 0748,Electronics,Indonesia,Jakarta,20,3.54,98.78,4.9,19.39
+SUP0749,Future Corporation 0749,Packaging,Japan,Tokyo,25,3.63,93.36,4.9,80.48
+SUP0750,Strategic Distributors 0750,Logistics,Japan,Osaka,23,3.61,93.9,5,94.65
+SUP0751,Strategic Industries 0751,Packaging,Thailand,Chiang Mai,15,1.56,99.35,3,84.83
+SUP0752,Future Wholesale 0752,Raw Materials,Malaysia,Penang,15,4.5,89.37,3.8,86.84
+SUP0753,Future Supplies 0753,Raw Materials,China,Beijing,13,1.3,86.89,3.9,36.96
+SUP0754,Advanced Supplies 0754,Food & Grocery,Japan,Tokyo,19,3.65,94.68,4.2,14.35
+SUP0755,Reliable Logistics 0755,Textiles,Indonesia,Surabaya,14,3.52,89.39,4.5,85.69
+SUP0756,Prime Corporation 0756,Food & Grocery,India,Hyderabad,21,3.55,93.96,3.7,8.77
+SUP0757,United Corporation 0757,Raw Materials,Germany,Munich,17,2.02,87.42,4.7,18.25
+SUP0758,Future Partners 0758,Raw Materials,Bangladesh,Chittagong,29,1.93,90.34,4.5,51.74
+SUP0759,Global Supplies 0759,Chemicals,Thailand,Bangkok,21,4.9,87.03,3.6,23.1
+SUP0760,Global Trading 0760,Electronics,Singapore,Singapore,18,4.89,87.83,3.2,71.94
+SUP0761,Reliable Supplies 0761,Packaging,USA,Dallas,30,0.57,96.85,4.1,90.12
+SUP0762,Premium Logistics 0762,Logistics,Vietnam,Hanoi,5,1.36,86.51,3.2,81.44
+SUP0763,Elite Exports 0763,Packaging,Bangladesh,Dhaka,14,2.25,86.65,4.8,10.43
+SUP0764,Future Partners 0764,Raw Materials,Mexico,Mexico City,7,2.51,96.94,3.8,70.27
+SUP0765,Prime Exports 0765,Food & Grocery,Indonesia,Jakarta,7,2.35,92.66,4.9,52.96
+SUP0766,NextGen Logistics 0766,Chemicals,Indonesia,Surabaya,11,1.5,85.42,4,10.19
+SUP0767,Modern Distributors 0767,Food & Grocery,Japan,Tokyo,21,1.83,98.63,4.9,23.2
+SUP0768,Global Trading 0768,Textiles,Indonesia,Surabaya,2,1.84,95.87,4.5,77.89
+SUP0769,Future Solutions 0769,Raw Materials,Thailand,Chiang Mai,10,2.82,94.5,4.6,74.5
+SUP0770,Prime Exports 0770,Textiles,South Korea,Seoul,25,0.57,92.9,4,53.57
+SUP0771,National Exports 0771,Food & Grocery,Malaysia,Kuala Lumpur,28,3.09,86.2,5,28.68
+SUP0772,Reliable Wholesale 0772,Raw Materials,China,Beijing,8,1.11,96.63,3.4,57.96
+SUP0773,United Industries 0773,Electronics,Singapore,Singapore,12,3.56,98.45,4.1,16.42
+SUP0774,United Supplies 0774,Textiles,Malaysia,Penang,28,3.75,98.62,3.8,57.52
+SUP0775,Premium Solutions 0775,Packaging,USA,Los Angeles,30,3.54,98.43,3.7,85.93
+SUP0776,Reliable Industries 0776,Packaging,Bangladesh,Chittagong,12,0.68,89.1,4.3,32.84
+SUP0777,National Industries 0777,Food & Grocery,Germany,Hamburg,9,2.1,97.06,3.7,74.09
+SUP0778,Advanced Solutions 0778,Logistics,Germany,Berlin,8,0.64,96.33,4.3,90.08
+SUP0779,Global Corporation 0779,Chemicals,Indonesia,Surabaya,3,1.15,91.54,4.6,58.08
+SUP0780,Future Logistics 0780,Food & Grocery,India,Ahmedabad,29,2.97,88.78,3.4,36.39
+SUP0781,Strategic Partners 0781,Food & Grocery,Indonesia,Surabaya,24,1.6,94.96,3.2,31.25
+SUP0782,Smart Logistics 0782,Logistics,Japan,Osaka,13,3.73,89.41,4.8,93.95
+SUP0783,Prime Solutions 0783,Textiles,China,Shenzhen,23,2.72,92.75,4.1,49.75
+SUP0784,Elite Corporation 0784,Packaging,China,Guangzhou,25,1.08,96.18,4.4,16.95
+SUP0785,Smart Solutions 0785,Raw Materials,Bangladesh,Chittagong,6,3.18,98.86,3.1,70.53
+SUP0786,Prime Corporation 0786,Logistics,China,Beijing,20,1.52,94.25,3.9,51.58
+SUP0787,Premium Trading 0787,Food & Grocery,Vietnam,Da Nang,6,1.1,97.5,4,35.67
+SUP0788,Rapid Wholesale 0788,Food & Grocery,Malaysia,Kuala Lumpur,13,2.52,97.91,4.5,19.29
+SUP0789,Global Corporation 0789,Packaging,South Korea,Busan,17,2.02,86.37,3.7,37.3
+SUP0790,Reliable Corporation 0790,Food & Grocery,USA,New York,3,4.86,98.24,4.4,31.85
+SUP0791,Future Partners 0791,Electronics,Germany,Berlin,12,4.28,85.79,3.1,15.4
+SUP0792,Premium Supplies 0792,Logistics,Germany,Munich,6,0.52,94.13,3.1,64.03
+SUP0793,Future Wholesale 0793,Textiles,Bangladesh,Dhaka,6,2.73,92.31,3.8,93.99
+SUP0794,Elite Supplies 0794,Electronics,Vietnam,Ho Chi Minh City,2,3.59,90.79,4.6,44.76
+SUP0795,Global Distributors 0795,Logistics,Thailand,Bangkok,12,1.13,98.03,3.2,59.19
+SUP0796,Global Industries 0796,Packaging,Mexico,Mexico City,13,3.4,89.48,3.8,86.41
+SUP0797,Advanced Trading 0797,Textiles,Malaysia,Penang,13,0.51,94.98,3.3,28.29
+SUP0798,Future Trading 0798,Textiles,USA,Chicago,13,1.39,86.29,3.5,16.57
+SUP0799,Strategic Distributors 0799,Logistics,India,Bangalore,21,1.01,90.23,5,25
+SUP0800,National Industries 0800,Logistics,Japan,Osaka,11,4.8,92.4,4.1,5.54
+SUP0801,Global Exports 0801,Chemicals,Indonesia,Jakarta,19,2.38,86.62,4.5,26.78
+SUP0802,United Industries 0802,Logistics,Vietnam,Hanoi,22,3.73,93.55,3.1,82
+SUP0803,Advanced Distributors 0803,Logistics,Mexico,Mexico City,21,4.18,95.73,4.9,5.16
+SUP0804,Advanced Industries 0804,Food & Grocery,China,Shenzhen,13,0.68,95.1,3.6,91.56
+SUP0805,Advanced Corporation 0805,Electronics,Indonesia,Surabaya,15,1.22,95.23,4.6,81.49
+SUP0806,Elite Distributors 0806,Logistics,Singapore,Singapore,13,3.63,94.14,3.6,52.97
+SUP0807,Prime Partners 0807,Logistics,Bangladesh,Dhaka,4,1.89,87.16,4.1,24.16
+SUP0808,Reliable Exports 0808,Electronics,China,Shanghai,7,4.7,93.43,3.9,41.14
+SUP0809,Strategic Supplies 0809,Textiles,India,Mumbai,11,0.6,88.93,4,29.49
+SUP0810,Reliable Partners 0810,Electronics,India,Ahmedabad,7,1.72,89.49,3.3,22.9
+SUP0811,Premium Wholesale 0811,Packaging,Germany,Hamburg,10,2.79,96.75,4.6,81.12
+SUP0812,United Industries 0812,Logistics,Vietnam,Hanoi,10,4,94.58,3.1,67.02
+SUP0813,United Wholesale 0813,Textiles,Singapore,Singapore,24,4.8,91.44,3.2,57.43
+SUP0814,Reliable Exports 0814,Chemicals,Thailand,Chiang Mai,17,3.2,99.01,3.8,50.48
+SUP0815,Modern Logistics 0815,Raw Materials,Vietnam,Ho Chi Minh City,18,2.73,97.99,3.8,78.54
+SUP0816,Modern Industries 0816,Textiles,South Korea,Seoul,7,2.7,92.76,4.4,13.36
+SUP0817,Strategic Solutions 0817,Packaging,Malaysia,Kuala Lumpur,4,2.8,92.35,3.3,45.95
+SUP0818,National Distributors 0818,Food & Grocery,South Korea,Seoul,29,1.66,93.29,3.6,51.94
+SUP0819,Modern Supplies 0819,Raw Materials,Indonesia,Jakarta,11,0.88,93.16,3.2,41.49
+SUP0820,Dynamic Exports 0820,Electronics,China,Shanghai,13,0.7,86.25,4.5,91.11
+SUP0821,Premium Corporation 0821,Packaging,Malaysia,Penang,8,2.12,88.36,4.5,49.08
+SUP0822,Smart Partners 0822,Chemicals,Singapore,Singapore,15,4.01,93.34,3.1,47.5
+SUP0823,Elite Solutions 0823,Logistics,Malaysia,Penang,18,1.43,85.48,4.5,11.55
+SUP0824,Premium Logistics 0824,Logistics,USA,Dallas,29,4.66,92.47,3.2,26.4
+SUP0825,Prime Corporation 0825,Raw Materials,Mexico,Monterrey,21,0.76,96.59,4.7,22.25
+SUP0826,National Corporation 0826,Electronics,Vietnam,Hanoi,17,2.77,88.15,4.8,40.33
+SUP0827,United Supplies 0827,Textiles,Mexico,Monterrey,22,2.83,94.61,3.1,38.11
+SUP0828,Global Distributors 0828,Food & Grocery,South Korea,Busan,20,3.29,90.8,3.2,72.74
+SUP0829,Strategic Partners 0829,Food & Grocery,Vietnam,Ho Chi Minh City,19,4.94,89.99,4.9,73.53
+SUP0830,Future Wholesale 0830,Packaging,Malaysia,Kuala Lumpur,20,1.31,85.94,3,82.66
+SUP0831,Modern Supplies 0831,Food & Grocery,Malaysia,Kuala Lumpur,27,3.08,89.34,3,57.73
+SUP0832,Modern Wholesale 0832,Textiles,Singapore,Singapore,17,4.66,87.55,3.5,90.92
+SUP0833,Modern Exports 0833,Chemicals,Mexico,Mexico City,11,3.91,93.53,4.7,18.89
+SUP0834,NextGen Trading 0834,Electronics,China,Beijing,14,4.61,87.94,4.1,43.46
+SUP0835,Future Wholesale 0835,Textiles,Malaysia,Penang,18,2.62,94.34,4,23.79
+SUP0836,Prime Trading 0836,Raw Materials,Mexico,Mexico City,5,3.42,92.84,4.6,66.29
+SUP0837,Global Trading 0837,Raw Materials,China,Shenzhen,14,2.22,97.95,4.5,12.82
+SUP0838,Future Supplies 0838,Food & Grocery,Vietnam,Hanoi,24,1.31,86.08,4.5,41.86
+SUP0839,Global Corporation 0839,Chemicals,USA,Chicago,24,1.38,90.44,4.4,43.46
+SUP0840,Strategic Industries 0840,Textiles,Vietnam,Da Nang,18,2.23,93.45,4.1,10.83
+SUP0841,Dynamic Partners 0841,Electronics,Indonesia,Jakarta,30,4.72,93.79,3.7,76.76
+SUP0842,Dynamic Partners 0842,Chemicals,India,Pune,28,3.44,85.27,4.8,23.77
+SUP0843,Global Distributors 0843,Food & Grocery,Vietnam,Da Nang,30,4.55,94.98,4.6,80.36
+SUP0844,National Industries 0844,Chemicals,South Korea,Seoul,20,4.99,93.93,3.3,61.37
+SUP0845,Global Distributors 0845,Chemicals,China,Guangzhou,20,3.67,91.07,3.3,47.91
+SUP0846,NextGen Industries 0846,Textiles,Malaysia,Penang,12,4.28,90.91,4.3,78.16
+SUP0847,Elite Supplies 0847,Logistics,Indonesia,Jakarta,11,4.73,85.82,4.3,20.89
+SUP0848,Strategic Solutions 0848,Packaging,Bangladesh,Dhaka,18,1.65,89.57,4.4,65.58
+SUP0849,Elite Partners 0849,Raw Materials,South Korea,Seoul,10,0.7,94.56,4.9,45.8
+SUP0850,Advanced Logistics 0850,Raw Materials,Bangladesh,Dhaka,26,1.49,90.91,3.9,84.92
+SUP0851,Advanced Logistics 0851,Electronics,China,Shenzhen,20,3.46,96.77,4.8,30.3
+SUP0852,Dynamic Wholesale 0852,Packaging,Vietnam,Ho Chi Minh City,26,0.58,89.23,3.7,84.98
+SUP0853,Rapid Partners 0853,Food & Grocery,Thailand,Bangkok,11,4.72,92.48,4.4,81.99
+SUP0854,Dynamic Wholesale 0854,Raw Materials,Singapore,Singapore,3,1.81,88.02,3.8,40.79
+SUP0855,Modern Solutions 0855,Textiles,Thailand,Chiang Mai,23,2.59,94.85,4.1,82.15
+SUP0856,Future Trading 0856,Electronics,Malaysia,Penang,9,4.24,88.67,3.9,91.84
+SUP0857,Reliable Supplies 0857,Logistics,India,Ahmedabad,13,1.32,92.08,4.1,82.57
+SUP0858,United Logistics 0858,Raw Materials,Bangladesh,Chittagong,15,0.9,92.56,3.3,27.02
+SUP0859,Rapid Solutions 0859,Packaging,Singapore,Singapore,10,4.58,94.22,3,82.62
+SUP0860,Rapid Logistics 0860,Food & Grocery,Thailand,Chiang Mai,16,3.11,91.47,4.5,66.72
+SUP0861,Future Wholesale 0861,Chemicals,South Korea,Seoul,2,1.94,91.67,3.3,62.51
+SUP0862,NextGen Supplies 0862,Logistics,Germany,Hamburg,7,0.83,98.06,4.5,76.75
+SUP0863,Elite Trading 0863,Packaging,Indonesia,Jakarta,28,1.65,92.11,4,45.57
+SUP0864,NextGen Corporation 0864,Textiles,Indonesia,Surabaya,28,0.66,85.31,3.4,80.1
+SUP0865,Dynamic Trading 0865,Electronics,Indonesia,Surabaya,19,4.29,94.16,3.5,36.83
+SUP0866,Elite Logistics 0866,Food & Grocery,Mexico,Monterrey,25,2.23,93.06,4.2,19.67
+SUP0867,Elite Exports 0867,Chemicals,Bangladesh,Chittagong,12,3.81,97.62,3.8,21.2
+SUP0868,Prime Corporation 0868,Raw Materials,Indonesia,Jakarta,17,1.8,89.66,4.4,81.26
+SUP0869,Future Distributors 0869,Chemicals,Thailand,Bangkok,2,1.94,97.06,3.4,15.98
+SUP0870,Global Distributors 0870,Logistics,USA,Los Angeles,3,4.05,90.59,3.1,83.75
+SUP0871,Elite Corporation 0871,Logistics,USA,New York,5,1.25,92.69,3.5,54.83
+SUP0872,Rapid Logistics 0872,Raw Materials,USA,Dallas,20,3.28,86.37,4.8,36.35
+SUP0873,Strategic Solutions 0873,Textiles,Malaysia,Kuala Lumpur,13,4.93,95.15,4.8,8.8
+SUP0874,Prime Solutions 0874,Packaging,USA,New York,2,2.61,88.93,4,29.24
+SUP0875,Elite Corporation 0875,Logistics,Malaysia,Penang,4,4.32,91.55,3.5,54.96
+SUP0876,Global Logistics 0876,Packaging,Thailand,Chiang Mai,27,1.89,97.84,4.1,28.25
+SUP0877,NextGen Distributors 0877,Chemicals,Singapore,Singapore,25,0.7,89.28,4.2,45.67
+SUP0878,United Industries 0878,Packaging,Japan,Nagoya,20,4.18,97.34,4.5,88.72
+SUP0879,Smart Corporation 0879,Food & Grocery,Thailand,Chiang Mai,6,3.73,87.21,3.5,84.35
+SUP0880,United Supplies 0880,Logistics,Thailand,Chiang Mai,28,4.59,86.99,3.4,43.03
+SUP0881,Smart Trading 0881,Logistics,South Korea,Seoul,4,3.21,93.21,4.5,49.57
+SUP0882,Advanced Corporation 0882,Electronics,Malaysia,Kuala Lumpur,25,2.08,88.49,4,60.57
+SUP0883,United Partners 0883,Logistics,Bangladesh,Chittagong,30,3.75,98.61,3.3,81.37
+SUP0884,Premium Corporation 0884,Textiles,Mexico,Monterrey,3,1.53,85.06,4.7,67.87
+SUP0885,Global Industries 0885,Packaging,Malaysia,Kuala Lumpur,18,4.83,94.05,3.8,15.25
+SUP0886,Dynamic Trading 0886,Food & Grocery,Indonesia,Jakarta,16,1.92,85.33,3.2,48.98
+SUP0887,Modern Partners 0887,Packaging,Thailand,Bangkok,30,4.18,87.24,3.1,75.69
+SUP0888,NextGen Distributors 0888,Raw Materials,South Korea,Busan,10,3.18,85.49,4.8,49.53
+SUP0889,Global Logistics 0889,Food & Grocery,USA,Chicago,5,3.42,98.5,4.2,17.43
+SUP0890,Prime Exports 0890,Textiles,China,Shanghai,11,2.74,87.47,4.4,25.79
+SUP0891,Dynamic Wholesale 0891,Raw Materials,Mexico,Mexico City,27,1.63,85.16,3.4,26.52
+SUP0892,Premium Logistics 0892,Raw Materials,Indonesia,Jakarta,18,1.91,89.78,4.9,87.67
+SUP0893,Global Exports 0893,Chemicals,Germany,Berlin,21,0.9,96.53,3.4,69.64
+SUP0894,United Trading 0894,Raw Materials,Thailand,Bangkok,24,1.45,94.56,4.3,60.05
+SUP0895,Strategic Wholesale 0895,Logistics,Mexico,Monterrey,15,1.8,89.78,3.6,40.9
+SUP0896,Advanced Supplies 0896,Textiles,Japan,Osaka,9,4.47,96.67,3.4,49.61
+SUP0897,National Solutions 0897,Chemicals,Germany,Berlin,30,3.1,90.72,4,49.41
+SUP0898,Smart Corporation 0898,Chemicals,Bangladesh,Chittagong,28,4.9,85.97,4.5,83.22
+SUP0899,United Solutions 0899,Food & Grocery,USA,Dallas,14,0.58,93.89,4.9,71.49
+SUP0900,Modern Supplies 0900,Electronics,Vietnam,Da Nang,30,0.96,94.52,3.1,80.28
+SUP0901,Prime Exports 0901,Textiles,Japan,Tokyo,17,2.34,87.06,4.7,83.12
+SUP0902,Advanced Industries 0902,Packaging,Indonesia,Jakarta,3,2.4,86.98,4.6,6.82
+SUP0903,National Solutions 0903,Food & Grocery,Mexico,Mexico City,30,4.21,90.95,4.2,5.67
+SUP0904,Dynamic Logistics 0904,Raw Materials,Singapore,Singapore,13,0.92,85.68,4.2,93.11
+SUP0905,United Wholesale 0905,Electronics,China,Guangzhou,12,2.94,94.95,4.8,45.01
+SUP0906,Elite Partners 0906,Chemicals,Japan,Tokyo,20,4.28,96.22,3.5,94.13
+SUP0907,Modern Wholesale 0907,Electronics,Vietnam,Da Nang,12,0.55,85.29,3.4,16.96
+SUP0908,Global Trading 0908,Food & Grocery,Bangladesh,Dhaka,8,2.73,85.87,4.9,9.78
+SUP0909,Premium Partners 0909,Electronics,China,Shanghai,19,3.62,90.49,5,79.89
+SUP0910,Rapid Exports 0910,Electronics,Vietnam,Ho Chi Minh City,14,1.97,85.33,4.6,27.25
+SUP0911,Premium Trading 0911,Packaging,Thailand,Chiang Mai,26,4.04,91.87,4,59.2
+SUP0912,Dynamic Exports 0912,Electronics,South Korea,Busan,22,4.96,99.01,5,41.4
+SUP0913,Dynamic Corporation 0913,Food & Grocery,Malaysia,Kuala Lumpur,25,0.95,91.01,3.7,33.26
+SUP0914,NextGen Supplies 0914,Textiles,Thailand,Chiang Mai,24,1.78,93.55,3.9,69.72
+SUP0915,Strategic Partners 0915,Packaging,Thailand,Bangkok,7,1.85,92.72,3.5,48.54
+SUP0916,National Logistics 0916,Logistics,Japan,Osaka,6,3.01,98.59,3.3,9.32
+SUP0917,National Corporation 0917,Logistics,Singapore,Singapore,15,4.92,86.75,3,39.12
+SUP0918,Rapid Partners 0918,Food & Grocery,China,Guangzhou,19,1.55,85.93,3.1,8.85
+SUP0919,NextGen Solutions 0919,Packaging,USA,Los Angeles,16,1.75,89.49,3.9,80.14
+SUP0920,Rapid Trading 0920,Chemicals,South Korea,Busan,11,4.54,95.81,4.2,82.11
+SUP0921,Advanced Wholesale 0921,Logistics,China,Beijing,3,2.29,87.85,4.1,31.76
+SUP0922,Premium Logistics 0922,Chemicals,Malaysia,Penang,6,1.71,94.6,3.9,67.47
+SUP0923,Strategic Distributors 0923,Chemicals,Singapore,Singapore,21,1.41,87.67,4.2,41.83
+SUP0924,National Supplies 0924,Raw Materials,China,Beijing,28,2.11,85.72,4.1,24.46
+SUP0925,Smart Corporation 0925,Raw Materials,Thailand,Bangkok,4,3.98,92.91,3.6,59.19
+SUP0926,Premium Industries 0926,Packaging,Singapore,Singapore,23,4.08,86.46,3.3,66.21
+SUP0927,National Corporation 0927,Chemicals,Thailand,Bangkok,2,0.99,98.03,4.3,91.3
+SUP0928,Prime Distributors 0928,Logistics,Singapore,Singapore,23,1.94,97.18,4.5,7.65
+SUP0929,United Corporation 0929,Textiles,Vietnam,Hanoi,16,2.92,85.87,3,45.79
+SUP0930,NextGen Trading 0930,Food & Grocery,USA,Los Angeles,28,1.84,93.03,3.9,38.37
+SUP0931,Global Distributors 0931,Chemicals,Singapore,Singapore,10,1.76,93.05,4,42.24
+SUP0932,Modern Logistics 0932,Packaging,South Korea,Seoul,9,2.5,91.04,3.1,43.21
+SUP0933,Advanced Solutions 0933,Textiles,China,Guangzhou,14,4.31,92.31,3.3,66.64
+SUP0934,Smart Exports 0934,Logistics,Malaysia,Penang,8,2.29,88.46,4.1,74.49
+SUP0935,Smart Exports 0935,Packaging,China,Guangzhou,10,1.94,97.42,4.9,92.68
+SUP0936,Prime Exports 0936,Packaging,Mexico,Mexico City,8,4.2,96.76,3.4,70.49
+SUP0937,Smart Supplies 0937,Textiles,Germany,Berlin,15,3.62,94.34,4.8,21.73
+SUP0938,Reliable Supplies 0938,Textiles,India,Mumbai,28,3.01,94.47,5,48.1
+SUP0939,Modern Trading 0939,Packaging,Vietnam,Da Nang,22,4.91,93.71,3.8,84.59
+SUP0940,Modern Supplies 0940,Logistics,Germany,Berlin,4,4.8,96.09,4.7,28.89
+SUP0941,NextGen Corporation 0941,Chemicals,Vietnam,Da Nang,28,2.71,86.29,4.8,91.8
+SUP0942,Prime Distributors 0942,Raw Materials,Indonesia,Surabaya,13,1.51,87.09,4.9,77.76
+SUP0943,Advanced Partners 0943,Logistics,Mexico,Monterrey,25,1.71,88.49,3.9,59.73
+SUP0944,Prime Distributors 0944,Textiles,USA,Chicago,26,1.09,85.55,3.7,90.93
+SUP0945,Smart Supplies 0945,Electronics,Malaysia,Penang,28,2.77,97.6,3.6,43.2
+SUP0946,Smart Solutions 0946,Food & Grocery,South Korea,Busan,30,4.78,92.01,3.9,23.83
+SUP0947,National Distributors 0947,Logistics,India,Ahmedabad,21,0.68,99.14,3.7,14.85
+SUP0948,Advanced Industries 0948,Logistics,Indonesia,Surabaya,25,0.61,92.32,4.8,54.97
+SUP0949,Modern Exports 0949,Textiles,Indonesia,Jakarta,24,3.14,97.29,4.9,16.74
+SUP0950,Smart Trading 0950,Textiles,Germany,Berlin,6,1.85,89.08,4.5,53.08
+SUP0951,Strategic Corporation 0951,Raw Materials,Japan,Nagoya,9,1.83,96.24,4.6,85.24
+SUP0952,Premium Trading 0952,Food & Grocery,Japan,Osaka,3,2.74,86.09,3.3,64.25
+SUP0953,Prime Exports 0953,Food & Grocery,Japan,Tokyo,3,1.95,88.92,5,62.39
+SUP0954,National Solutions 0954,Food & Grocery,Japan,Osaka,2,3.12,88.72,4.2,42.98
+SUP0955,Premium Logistics 0955,Packaging,USA,Chicago,8,2.6,88.17,3.6,88.9
+SUP0956,Global Trading 0956,Raw Materials,China,Beijing,14,2.62,94.21,4.5,47.42
+SUP0957,Strategic Wholesale 0957,Food & Grocery,Mexico,Monterrey,14,2.09,91.96,3.3,88.31
+SUP0958,Strategic Trading 0958,Logistics,Bangladesh,Chittagong,7,0.68,99.03,3.5,43.33
+SUP0959,Smart Exports 0959,Packaging,China,Guangzhou,7,2.25,97.3,4.4,38.34
+SUP0960,National Solutions 0960,Logistics,Japan,Tokyo,6,1.15,95.45,4.8,19.33
+SUP0961,Strategic Solutions 0961,Raw Materials,Japan,Tokyo,16,3.16,94.91,4.7,89.37
+SUP0962,United Exports 0962,Logistics,South Korea,Seoul,14,3.82,86.35,3.1,34.4
+SUP0963,Global Industries 0963,Electronics,Thailand,Bangkok,25,3.15,88.43,3.4,70.52
+SUP0964,United Logistics 0964,Logistics,Germany,Hamburg,21,3.34,88.93,3.3,28.23
+SUP0965,Global Exports 0965,Food & Grocery,USA,Chicago,23,4.15,89.29,4.9,54.97
+SUP0966,Modern Exports 0966,Electronics,Japan,Nagoya,11,4.66,87.77,4.1,87.03
+SUP0967,United Industries 0967,Chemicals,Indonesia,Surabaya,20,2.53,94.97,4.8,81.2
+SUP0968,Premium Distributors 0968,Packaging,Vietnam,Hanoi,2,4.04,95.8,4.3,7.25
+SUP0969,United Exports 0969,Textiles,Malaysia,Kuala Lumpur,27,2.46,96.1,3.1,71.82
+SUP0970,Smart Industries 0970,Raw Materials,South Korea,Seoul,20,2.05,94.91,4.1,57.29
+SUP0971,Reliable Supplies 0971,Packaging,Mexico,Monterrey,20,1.37,93.75,4.3,54.04
+SUP0972,United Solutions 0972,Raw Materials,Bangladesh,Chittagong,20,3.95,90.49,3.7,75.75
+SUP0973,Global Corporation 0973,Packaging,Indonesia,Jakarta,11,1.08,91.97,4.2,7.9
+SUP0974,Future Corporation 0974,Logistics,Germany,Hamburg,14,1.89,95.95,4.2,51.26
+SUP0975,Rapid Solutions 0975,Packaging,Vietnam,Da Nang,12,3.56,86.05,4.5,72.53
+SUP0976,NextGen Logistics 0976,Food & Grocery,Bangladesh,Dhaka,14,0.53,87.73,4.8,84.54
+SUP0977,NextGen Partners 0977,Raw Materials,Thailand,Chiang Mai,22,3.44,89.54,4.2,59.82
+SUP0978,Premium Industries 0978,Electronics,Japan,Nagoya,8,1.4,86.13,4.9,15.05
+SUP0979,Elite Logistics 0979,Logistics,Singapore,Singapore,11,1.82,93.44,3.9,73.75
+SUP0980,Future Trading 0980,Textiles,Singapore,Singapore,27,2.96,86.15,3.2,73.18
+SUP0981,Dynamic Solutions 0981,Raw Materials,USA,New York,28,2.91,87.72,3.1,68.29
+SUP0982,Dynamic Industries 0982,Chemicals,Singapore,Singapore,12,2.38,85.01,3.7,10.59
+SUP0983,Advanced Partners 0983,Raw Materials,Vietnam,Hanoi,7,1.6,94.88,4.7,87.11
+SUP0984,Premium Wholesale 0984,Textiles,Thailand,Chiang Mai,11,2.67,97.4,4.8,39.7
+SUP0985,Rapid Logistics 0985,Textiles,China,Shanghai,17,3.41,90.83,3.1,35.57
+SUP0986,Advanced Supplies 0986,Chemicals,Vietnam,Ho Chi Minh City,6,2.14,99.4,4.2,56.68
+SUP0987,Advanced Logistics 0987,Textiles,Bangladesh,Dhaka,15,3.92,98.52,3.7,67.88
+SUP0988,NextGen Exports 0988,Packaging,Indonesia,Surabaya,4,0.87,94.98,4.9,84.46
+SUP0989,Future Solutions 0989,Food & Grocery,Japan,Osaka,9,4.34,85.56,4.5,14.92
+SUP0990,Premium Exports 0990,Electronics,Indonesia,Jakarta,21,3.72,98.65,4.2,21.09
+SUP0991,Future Exports 0991,Textiles,Thailand,Chiang Mai,30,2.45,89.01,3.9,69.24
+SUP0992,Reliable Distributors 0992,Textiles,China,Beijing,11,4.22,99.47,4.3,91.53
+SUP0993,National Industries 0993,Logistics,Germany,Munich,7,3.42,93.87,4.1,84.4
+SUP0994,Dynamic Solutions 0994,Packaging,Thailand,Bangkok,20,4.61,87.15,3.1,12.11
+SUP0995,Rapid Distributors 0995,Raw Materials,Germany,Munich,5,3.96,93.04,4.5,93.04
+SUP0996,Future Industries 0996,Electronics,Malaysia,Kuala Lumpur,11,4.94,99.36,3.3,75.88
+SUP0997,Premium Industries 0997,Packaging,China,Shanghai,3,2.8,91.23,3.6,72.22
+SUP0998,Rapid Distributors 0998,Textiles,Vietnam,Hanoi,17,0.57,90.68,5,20.72
+SUP0999,Elite Wholesale 0999,Textiles,Indonesia,Jakarta,12,4.36,90.43,4.4,94.29
+SUP1000,NextGen Distributors 1000,Logistics,Thailand,Chiang Mai,20,3.32,85.24,3.2,65.87
